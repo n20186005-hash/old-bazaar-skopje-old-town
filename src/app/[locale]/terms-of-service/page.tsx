@@ -8,8 +8,8 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://montdesarts.org';
-  const zhUrl = `${baseUrl}/terms-of-service`;
+  const baseUrl = 'https://oldbazaarskopje.com';
+  const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 

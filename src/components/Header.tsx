@@ -34,7 +34,7 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+          {(['transportation', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
               href={`${homePath}#${section}`}

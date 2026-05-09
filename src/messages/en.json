@@ -5,6 +5,7 @@
   },
   "header": {
     "home": "Home",
+    "transportation": "Transport",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -242,6 +243,27 @@
       {
         "name": "Budget Option",
         "description": "Skopje offers great value for money; you can stay in high-star or characteristic boutique hotels in the city center at very high cost-effectiveness. If you are sensitive to noise, it is recommended not to choose rooms directly below the main bazaar thoroughfare or mosque minarets."
+      }
+    ]
+  },
+  "transportation": {
+    "title": "Transportation",
+    "methods": [
+      {
+        "type": "Airport Transport",
+        "description": "<strong>From Skopje International Airport (SKP):</strong><br/><strong>Shuttle Bus:</strong> Take the airport shuttle bus (operated by WTransporter and others) to the city center. It is recommended to get off at the \"Holiday Inn\" stop. After getting off, walk across Macedonia Square and the Stone Bridge, and you will arrive at the main south entrance of the Old Bazaar in about 10-15 minutes. The one-way trip takes about 30-40 minutes and costs about 3-4 euros.<br/><strong>Taxi/Transfer:</strong> Official taxis outside the airport have a fixed guide price to Skopje city center (usually around 20-25 euros / 1200-1500 MKD). The ride takes about 25 minutes. You can ask the driver to drop you off directly at the edge of the Old Bazaar at Daut Pasha Hammam (south side) or Bit Pazar (north side)."
+      },
+      {
+        "type": "Walking (Highly Recommended)",
+        "description": "The Old Bazaar is only separated by a river from the new town of Skopje. From the city center landmark \"Macedonia Square\", walk across the iconic Stone Bridge over the Vardar River, and you can reach the main south entrance of the Old Bazaar in just 3-5 minutes."
+      },
+      {
+        "type": "Public Bus",
+        "description": "Skopje's public transportation is convenient. You can take multiple city red bus lines and get off at the Bit Pazar station on the north side of the bazaar, then explore from north to south downhill."
+      },
+      {
+        "type": "Taxi",
+        "description": "Taxi fares in Skopje city are very low. Since the core area of the Old Bazaar is a pure pedestrian street (no motor vehicles allowed), it is recommended to ask the driver to drop you off at Daut Pasha Hammam on the south side or the north entrance."
       }
     ]
   }

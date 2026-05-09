@@ -4,6 +4,7 @@ import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
 import InfoSection from '@/components/InfoSection';
 import Gallery from '@/components/Gallery';
+import Transportation from '@/components/Transportation';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Accommodation from '@/components/Accommodation';
@@ -24,6 +25,7 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <InfoSection />
+        <Transportation />
         <Gallery />
         <Accommodation />
         <Reviews />
