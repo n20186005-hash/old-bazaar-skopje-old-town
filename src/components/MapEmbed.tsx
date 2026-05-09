@@ -25,7 +25,7 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.5!2d21.4317!3d42.0027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDLCsDAwJzEwLjAiTiAyMcKwMjUnNDEuNyJF!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.5!2d21.4317!3d42.0027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1349e8b7363e6b6d%3A0x7b7b7b7b7b7b7b7b!2sOld%20Bazaar%20Skopje!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus"
             width="100%"
             height="450"
             style={{ border: 0 }}
