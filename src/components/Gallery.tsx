@@ -12,12 +12,32 @@ const photos = [
   { src: '/gallery/images (6).jpg', alt: 'Kale Fortress overlook' },
   { src: '/gallery/images (7).jpg', alt: 'Ottoman architecture' },
   { src: '/gallery/images (8).jpg', alt: 'Stone Bridge entrance' },
+  { src: '/gallery/images (9).jpg', alt: 'Local market scene' },
+  { src: '/gallery/images (10).jpg', alt: 'Bazaar street view' },
+  { src: '/gallery/images (11).jpg', alt: 'Historical building detail' },
+  { src: '/gallery/images (12).jpg', alt: 'Balkan cuisine' },
+  { src: '/gallery/images (13).jpg', alt: 'Artisan workshop' },
+  { src: '/gallery/images (14).jpg', alt: 'Evening atmosphere' },
 ];
+
+const ITEMS_PER_PAGE = 8;
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const [currentPage, setCurrentPage] = useState(0);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
+
+  const totalPages = Math.ceil(photos.length / ITEMS_PER_PAGE);
+  const currentPhotos = photos.slice(currentPage * ITEMS_PER_PAGE, (currentPage + 1) * ITEMS_PER_PAGE);
+
+  const goToPreviousPage = useCallback(() => {
+    setCurrentPage((prev) => (prev === 0 ? totalPages - 1 : prev - 1));
+  }, [totalPages]);
+
+  const goToNextPage = useCallback(() => {
+    setCurrentPage((prev) => (prev === totalPages - 1 ? 0 : prev + 1));
+  }, [totalPages]);
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
@@ -45,49 +65,56 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
-                <div
-                  key={i}
-                  className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
-                  onClick={() => {
-                    setCurrentIndex(i);
-                    openLightbox();
-                  }}
-                >
-                  <img
-                    src={photo.src}
-                    alt={photo.alt}
-                    className="w-full h-full object-cover rounded-lg"
-                    style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
-                  />
-                  <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
-                    <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
-                    </p>
+              {currentPhotos.map((photo, i) => {
+                const globalIndex = currentPage * ITEMS_PER_PAGE + i;
+                return (
+                  <div
+                    key={globalIndex}
+                    className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
+                    onClick={() => {
+                      setCurrentIndex(globalIndex);
+                      openLightbox();
+                    }}
+                  >
+                    <img
+                      src={photo.src}
+                      alt={photo.alt}
+                      className="w-full h-full object-cover rounded-lg"
+                      style={{ minHeight: i === 0 ? '400px' : '180px' }}
+                      loading="lazy"
+                    />
+                    <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
+                      <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
+                        {photo.alt}
+                      </p>
+                    </div>
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
 
-            <button
-              onClick={goToPrevious}
-              className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-              aria-label="Previous photo"
-            >
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <polyline points="15 18 9 12 15 6" />
-              </svg>
-            </button>
-            <button
-              onClick={goToNext}
-              className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-              aria-label="Next photo"
-            >
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <polyline points="9 18 15 12 9 6" />
-              </svg>
-            </button>
+            {totalPages > 1 && (
+              <>
+                <button
+                  onClick={goToPreviousPage}
+                  className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
+                  aria-label="Previous page"
+                >
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <polyline points="15 18 9 12 15 6" />
+                  </svg>
+                </button>
+                <button
+                  onClick={goToNextPage}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
+                  aria-label="Next page"
+                >
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <polyline points="9 18 15 12 9 6" />
+                  </svg>
+                </button>
+              </>
+            )}
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
