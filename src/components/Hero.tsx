@@ -8,10 +8,10 @@ interface HeroProps {
   mapsLink?: string;
 }
 
-export default function Hero({ 
-  imageSrc = '/gallery/images (1).jpg', 
+export default function Hero({
+  imageSrc = '/gallery/images (8).jpg',
   imageAlt = 'Skopje Old Bazaar',
-  mapsLink = 'https://maps.app.goo.gl/t39pvPGR2S68j9vj6'
+  mapsLink = 'https://maps.app.goo.gl/xp3NTVJ17rh27znU9'
 }: HeroProps) {
   const t = useTranslations('hero');
 

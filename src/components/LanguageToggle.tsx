@@ -48,7 +48,7 @@ export default function LanguageToggle() {
   }
 
   return (
-    <div ref={ref} className="relative">
+    <div ref={ref} className="relative" onBlur={(event) => {if (!event.currentTarget.contains(event.relatedTarget as Node)) setOpen(false);}} onKeyDown={(event) => {if (event.key === 'Escape') {setOpen(false); ref.current?.querySelector('button')?.focus();}}}>
       <button
         onClick={() => setOpen(!open)}
         className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-medium transition-colors"
@@ -56,7 +56,9 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={locale === 'zh' ? '切换语言' : 'Switch language'}
+        aria-expanded={open}
+        aria-controls="site-language-options"
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -71,6 +73,7 @@ export default function LanguageToggle() {
 
       {open && (
         <div
+          id="site-language-options"
           className="absolute right-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
           style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
         >
