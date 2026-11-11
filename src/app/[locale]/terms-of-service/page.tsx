@@ -1,6 +1,8 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import {notFound} from 'next/navigation';
+import {isLocale, pageMetadata} from '@/lib/site';
 
 export async function generateMetadata({
   params,
@@ -8,21 +10,9 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://oldbazaarskopje.com';
-  const zhUrl = `${baseUrl}/zh/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
-
-  return {
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
-      },
-    },
-  };
+  if (!isLocale(locale)) notFound();
+  const messages = (await import(`@/messages/${locale}.json`)).default;
+  return pageMetadata(locale, '/terms-of-service', `${messages.terms.title} | Skopje Old Bazaar`, messages.meta.description);
 }
 
 function TermsContent() {

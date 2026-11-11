@@ -9,6 +9,7 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Accommodation from '@/components/Accommodation';
 import Footer from '@/components/Footer';
+import Nearby from '@/components/Nearby';
 
 export default async function HomePage({
   params,
@@ -25,6 +26,7 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <InfoSection />
+        <Nearby />
         <Transportation />
         <Gallery />
         <Accommodation />
