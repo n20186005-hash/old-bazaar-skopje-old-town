@@ -4,12 +4,15 @@ import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
+import { usePathname } from 'next/navigation';
 
 export default function Header() {
   const t = useTranslations('header');
   const heroT = useTranslations('hero');
   const locale = useLocale();
   const [scrolled, setScrolled] = useState(false);
+  const pathname = usePathname();
+  const solid = scrolled || pathname.includes('/explore') || pathname.includes('privacy-policy') || pathname.includes('terms-of-service') || pathname.includes('cookie-settings');
 
   useEffect(() => {
     const handler = () => setScrolled(window.scrollY > 50);
@@ -23,23 +26,24 @@ export default function Header() {
     <header
       className="fixed top-0 left-0 right-0 z-50 transition-all duration-300"
       style={{
-        background: scrolled ? 'var(--bg-secondary)' : 'transparent',
-        borderBottom: scrolled ? '1px solid var(--border-color)' : 'none',
-        backdropFilter: scrolled ? 'blur(12px)' : 'none',
+        background: solid ? 'var(--bg-secondary)' : 'transparent',
+        borderBottom: solid ? '1px solid var(--border-color)' : 'none',
+        backdropFilter: solid ? 'blur(12px)' : 'none',
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={homePath} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a href={homePath} className="font-display text-lg font-semibold tracking-tight" style={{ color: solid ? 'var(--text-primary)' : '#fff' }}>
           {heroT('title')}
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
+          <a href={`${locale === 'zh' ? '' : '/en'}/explore`} className="text-sm font-medium transition-colors" style={{ color: solid ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>{locale === 'zh' ? '周边探索' : 'Explore'}</a>
           {(['transportation', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
               href={`${homePath}#${section}`}
               className="text-sm font-medium transition-colors"
-              style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+              style={{ color: solid ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
               {t(section)}
             </a>
