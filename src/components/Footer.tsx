@@ -1,10 +1,10 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
 
-export default function Footer() {
+export default function Footer({showDisclaimer = true}: {showDisclaimer?: boolean}) {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = `/${locale}`;
+  const prefix = locale === 'zh' ? '' : `/${locale}`;
 
   return (
     <footer
@@ -50,7 +50,7 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
-          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          {showDisclaimer && <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>}
         </div>
       </div>
     </footer>

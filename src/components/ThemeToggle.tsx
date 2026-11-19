@@ -1,8 +1,10 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import {useLocale} from 'next-intl';
 
 export default function ThemeToggle() {
+  const locale = useLocale();
   const [dark, setDark] = useState(false);
 
   useEffect(() => {
@@ -30,7 +32,8 @@ export default function ThemeToggle() {
       onClick={toggle}
       className="p-2 rounded-md transition-colors"
       style={{ background: 'var(--tag-bg)', color: 'var(--tag-text)' }}
-      aria-label="Toggle theme"
+      aria-label={locale === 'zh' ? '切换主题' : 'Toggle theme'}
+      aria-pressed={dark}
     >
       {dark ? (
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

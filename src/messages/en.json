@@ -9,7 +9,8 @@
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "nearby": "Nearby"
   },
   "hero": {
     "title": "Old Bazaar",
@@ -216,7 +217,7 @@
       {
         "id": "contact",
         "title": "Contact Information",
-        "content": "Phone: +389-2-311-7369 (Skopje Tourist Information Center)\nAddress: Old Bazaar, Skopje 1000, North Macedonia\nGoogle Maps: https://maps.app.goo.gl/t39pvPGR2S68j9vj6"
+        "content": "Phone: +389-2-311-7369 (Skopje Tourist Information Center)\nAddress: Old Bazaar, Skopje 1000, North Macedonia\nGoogle Maps: https://maps.app.goo.gl/xp3NTVJ17rh27znU9"
       },
       {
         "id": "photography",
