@@ -151,7 +151,7 @@ export const explore: Record<'en' | 'zh', Record<ExploreSlug, Article>> = {
 };
 
 export const officialSources = [
-  { label: 'North Macedonia Tourism Agency · Old Bazaar', url: 'https://macedonia-timeless.com/eng/things_to_do/senses/touch/culture-history/old-bazaar/' },
   { label: 'City of Skopje · Official portal', url: 'https://skopje.gov.mk/en_us/' },
-  { label: 'Tourism Agency · Ottoman monuments guide (PDF)', url: 'https://tourismmacedonia.gov.mk/wp-content/uploads/2018/09/Otomanskite-spomenici-ENG.pdf' },
+  { label: 'City of Skopje · Cultural institutions and Suli An', url: 'https://skopje.gov.mk/en_us/skopje/kulturni-ustanovi/' },
+  { label: 'Tourism Agency · Publications and Ottoman monuments', url: 'https://tourismmacedonia.gov.mk/publikacii/?lang=en' },
 ];
