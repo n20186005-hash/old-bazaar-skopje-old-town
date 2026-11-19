@@ -33,6 +33,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            <a href={`${locale === 'zh' ? '' : '/en'}/explore`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">{locale === 'zh' ? '周边探索' : 'Explore'}</a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>

@@ -9,6 +9,7 @@ import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Accommodation from '@/components/Accommodation';
 import Footer from '@/components/Footer';
+import ExploreTeasers from '@/components/ExploreTeasers';
 
 export default async function HomePage({
   params,
@@ -30,6 +31,7 @@ export default async function HomePage({
         <Accommodation />
         <Reviews />
         <MapEmbed />
+        <ExploreTeasers />
       </main>
       <Footer />
     </>

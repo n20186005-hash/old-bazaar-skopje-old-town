@@ -8,8 +8,6 @@ export const routing = defineRouting({
   },
   pathnames: {
     '/': '/',
-    '/danube-park-novi-sad': '/danube-park-novi-sad',
-    '/mont-des-arts': '/mont-des-arts',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',
