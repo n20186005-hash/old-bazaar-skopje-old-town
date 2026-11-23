@@ -4,7 +4,7 @@ import { useLocale } from 'next-intl';
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = `/${locale}`;
+  const prefix = locale === 'zh' ? '' : `/${locale}`;
 
   return (
     <footer
@@ -33,6 +33,9 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            <a href={`${prefix}/nearby`} className="hover:underline" style={{ color: 'var(--text-secondary)' }}>
+              {locale === 'zh' ? '周边游览' : 'Explore nearby'}
+            </a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>

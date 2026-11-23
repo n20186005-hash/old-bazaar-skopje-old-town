@@ -1,0 +1,1211 @@
+{
+  "stone-bridge": {
+    "localName": "Камен мост",
+    "kind": "public",
+    "source": "city",
+    "next": "macedonia-square",
+    "minutes": 15,
+    "en": {
+      "title": "Stone Bridge",
+      "subtitle": "Follow the stone spans across the Vardar to the Old Bazaar.",
+      "address": "Vardar crossing between Macedonia Square and the Old Bazaar",
+      "about": "The bridge connects the city's south-bank square with the old commercial quarter. Stand back at the north landing and look along the row of stone piers.",
+      "walk": [
+        "Start at Macedonia Square",
+        "cross toward the old town",
+        "continue along the quay or toward Daut Pasha Hammam."
+      ],
+      "photo": "From the north quay, frame the low arches with the river in the foreground.",
+      "faq": [
+        "Can I cross directly from the square to the Old Bazaar?",
+        "Yes. Use the north landing and continue inland toward the domed hammam."
+      ]
+    },
+    "zh": {
+      "title": "石桥",
+      "subtitle": "沿瓦尔达尔河上的石拱，从市中心走进旧巴扎。",
+      "address": "连接马其顿广场与旧巴扎的瓦尔达尔河过河点",
+      "about": "这座桥把南岸广场与传统商业区连在一起。到北桥头后稍向侧面退开，能看清一列石砌桥墩。",
+      "walk": [
+        "从马其顿广场上桥",
+        "向旧城一侧过河",
+        "沿河岸转弯或走向达乌特帕夏浴场。"
+      ],
+      "photo": "在北岸步道侧拍，用河面作为低矮桥拱的前景。",
+      "faq": [
+        "能从广场直接走过石桥进旧巴扎吗？",
+        "可以。到北桥头后往内陆走，先找带穹顶的古浴场。"
+      ]
+    }
+  },
+  "daut-pasha-hammam": {
+    "localName": "Даут пашин амам",
+    "kind": "museum",
+    "source": "daut",
+    "next": "stone-bridge",
+    "minutes": 45,
+    "en": {
+      "title": "Daut Pasha Hammam",
+      "subtitle": "See how a domed Ottoman bath was adapted for Macedonian art.",
+      "address": "Old Bazaar southern approach, near Stone Bridge",
+      "about": "The National Gallery traces the bath to the late fifteenth century and its gallery adaptation to 1948. Look up as you move between rooms to follow the former bathing volumes.",
+      "walk": [
+        "Cross Stone Bridge",
+        "find the cluster of domes near the bazaar entrance",
+        "check the entrance notice for the day's displays."
+      ],
+      "photo": "From outside the entrance lane, keep several roof domes in the same frame.",
+      "faq": [
+        "Does the domed building still function as a bath?",
+        "The National Gallery uses it for art. Check which rooms and displays are open before making it your main indoor stop."
+      ]
+    },
+    "zh": {
+      "title": "达乌特帕夏浴场",
+      "subtitle": "在奥斯曼穹顶之下参观马其顿美术场馆。",
+      "address": "石桥附近的旧巴扎南侧入口地带",
+      "about": "国家美术馆把浴场历史追溯到十五世纪末，建筑于 1948 年改作美术馆。参观时抬头看不同展室的穹顶，体会浴室原来的空间尺度。",
+      "walk": [
+        "从石桥过河",
+        "在旧巴扎入口找成组穹顶",
+        "看入口当天的展览告示。"
+      ],
+      "photo": "从入口小巷稍远处取景，把几座穹顶同时纳入画面。",
+      "faq": [
+        "看到的穹顶建筑现在还能洗浴吗？",
+        "这里由国家美术馆作艺术展馆使用。若把它作为主要室内停留点，请先确认开放展室与展览。"
+      ]
+    }
+  },
+  "cifte-hammam": {
+    "localName": "Чифте амам",
+    "kind": "museum",
+    "source": "cifte",
+    "next": "suli-an",
+    "minutes": 40,
+    "en": {
+      "title": "Čifte Hammam",
+      "subtitle": "Trace the paired layout of a former Ottoman bath in the heart of the market.",
+      "address": "Old Bazaar lanes beside Suli An and Murat Pasha Mosque",
+      "about": "The historic building accommodated separate bathing sections. The National Gallery now uses the distinct chambers as exhibition space in the market quarter.",
+      "walk": [
+        "Find Suli An as your reference point",
+        "follow the lane to the hammam",
+        "look for the National Gallery exhibition sign."
+      ],
+      "photo": "Look for a lane angle that places the bath masonry beside the low bazaar shopfronts.",
+      "faq": [
+        "Will a show at Daut Pasha Hammam also be on here?",
+        "Each former bath has its own exhibition schedule. Check the Čifte Hammam listing before taking the detour."
+      ]
+    },
+    "zh": {
+      "title": "奇夫泰双浴场",
+      "subtitle": "在市场中央观察奥斯曼双浴场的空间布局。",
+      "address": "旧巴扎巷道内，苏利驿站与穆拉德帕夏清真寺旁",
+      "about": "历史浴场原设两个分开的洗浴部分。今天国家美术馆利用这些独立厅室举办展览，与周围商铺形成不同的空间节奏。",
+      "walk": [
+        "先用苏利驿站定位",
+        "沿巷走到浴场一侧",
+        "寻找国家美术馆的展览入口牌。"
+      ],
+      "photo": "选一段巷道取景，让石砌浴场外墙和低矮商铺出现在同一画面。",
+      "faq": [
+        "达乌特帕夏浴场展出的内容在这里也能看到吗？",
+        "两座古浴场各有活动安排。特地来访前先查询奇夫泰双浴场的展览信息。"
+      ]
+    }
+  },
+  "kapan-an": {
+    "localName": "Капан ан",
+    "kind": "heritage",
+    "source": "ottoman",
+    "next": "bezisten",
+    "minutes": 20,
+    "en": {
+      "title": "Kapan An",
+      "subtitle": "Look for the courtyard of a merchants' inn just off the market lane.",
+      "address": "Old Bazaar core, near the historic covered market",
+      "about": "The inn was part of the commercial infrastructure of the Ottoman market. Compare the enclosed court with the narrow lanes used by today's shoppers.",
+      "walk": [
+        "Use Bezisten as an orientation point",
+        "look for the inn's arched passage",
+        "return to the commercial lane before continuing uphill."
+      ],
+      "photo": "Frame the passage from the lane first. Use the courtyard only if access is posted as public.",
+      "faq": [
+        "Can I count on seeing the courtyard during a short visit?",
+        "Plan to see the street entrance first. Enter if it is open and the people using the premises allow visitors."
+      ]
+    },
+    "zh": {
+      "title": "卡潘驿站",
+      "subtitle": "从商铺林立的巷道寻找昔日商旅庭院。",
+      "address": "旧巴扎核心区，历史有顶市场附近",
+      "about": "这座驿站曾是奥斯曼市场的商旅设施。可把围合庭院与今天供顾客来往的狭窄巷道作比较。",
+      "walk": [
+        "先到有顶市场辨认方向",
+        "寻找驿站的拱形门道",
+        "回到商业巷后再往高处走。"
+      ],
+      "photo": "先从巷中取景拍门道，庭院仅在有明确公共开放说明时进入。",
+      "faq": [
+        "时间很短，也一定能看到庭院吗？",
+        "可先看临街入口。门道开放且场内使用方同意时，再进庭院。"
+      ]
+    }
+  },
+  "suli-an": {
+    "localName": "Сули ан",
+    "kind": "museum",
+    "source": "cityCulture",
+    "next": "cifte-hammam",
+    "minutes": 35,
+    "en": {
+      "title": "Suli An",
+      "subtitle": "A bazaar inn with a courtyard and links to the city's museum and art faculty.",
+      "address": "Central Old Bazaar beside Čifte Hammam",
+      "about": "The City of Skopje lists the Old Bazaar museum collection at Suli An, a historic inn also used by the Faculty of Fine Arts. Observe how the gallery around the court opens out from the street passage.",
+      "walk": [
+        "Approach from Čifte Hammam",
+        "locate the inn entrance around the corner",
+        "read the museum and faculty signs before entering."
+      ],
+      "photo": "From the threshold, look for a line of arches along the courtyard without obstructing passage.",
+      "faq": [
+        "Can I go into teaching spaces when visiting Suli An?",
+        "Follow the museum signs or ask staff. The art faculty's teaching areas have their own access rules."
+      ]
+    },
+    "zh": {
+      "title": "苏利驿站",
+      "subtitle": "在古驿站庭院寻找旧巴扎博物馆与艺术学院的入口。",
+      "address": "旧巴扎中段，奇夫泰双浴场旁",
+      "about": "斯科普里市将旧巴扎博物馆馆藏列在苏利驿站，艺术学院也使用这座历史建筑。留意从临街门洞迈入后，庭院四周拱廊如何展开。",
+      "walk": [
+        "从奇夫泰双浴场走来",
+        "在转角寻找驿站入口",
+        "进门前仔细辨认博物馆与学院的标牌。"
+      ],
+      "photo": "在门槛处寻找可拍下连续拱廊的角度，给出入人员让路。",
+      "faq": [
+        "到苏利驿站能进入学院教室吗？",
+        "参观时按博物馆标牌前行，也可先问工作人员。学院教学区另有出入安排。"
+      ]
+    }
+  },
+  "kursumli-an": {
+    "localName": "Куршумли ан",
+    "kind": "heritage",
+    "source": "ottoman",
+    "next": "museum-of-macedonia",
+    "minutes": 25,
+    "en": {
+      "title": "Kuršumli An",
+      "subtitle": "An arcaded former inn beside the Museum of Macedonia grounds.",
+      "address": "Northern Old Bazaar, beside the Museum of Macedonia",
+      "about": "The national tourism agency locates the former inn within the museum grounds and notes its use for cultural events. The stone arches emphasize the scale of its merchant courtyard.",
+      "walk": [
+        "Find the museum approach",
+        "look for the historic inn by the grounds",
+        "check the gate notice before planning an interior stop."
+      ],
+      "photo": "If the court is open, photograph a row of arches from one side and leave the circulation route clear.",
+      "faq": [
+        "Can I visit Kuršumli An while the museum is open?",
+        "Ask at the museum about the inn gate. Events and ordinary museum access can follow different arrangements."
+      ]
+    },
+    "zh": {
+      "title": "库尔舒姆利驿站",
+      "subtitle": "在马其顿博物馆院区旁辨认层叠石拱的古驿站。",
+      "address": "旧巴扎北段，马其顿博物馆旁",
+      "about": "国家旅游机构把这座驿站定位在博物馆院区，并记录了其文化活动用途。旧商旅庭院的石砌拱廊能看出建筑原有的规模。",
+      "walk": [
+        "先到博物馆外侧",
+        "沿院区找到驿站",
+        "看门口公告再决定是否入内。"
+      ],
+      "photo": "庭院开放时，从一侧取景拍一排拱门，避开主要通行线。",
+      "faq": [
+        "马其顿博物馆营业时能一并进入驿站吗？",
+        "先到博物馆询问驿站门禁。活动安排与博物馆正常入馆时段可能不同。"
+      ]
+    }
+  },
+  "bezisten": {
+    "localName": "Безистен",
+    "kind": "heritage",
+    "source": "ottoman",
+    "next": "kapan-an",
+    "minutes": 20,
+    "en": {
+      "title": "Bezisten",
+      "subtitle": "Find the covered-market site amid today's trading lanes.",
+      "address": "Old Bazaar core, next to Kapan An",
+      "about": "The bezisten was a distinct part of the Ottoman commercial quarter. Read the surviving market layout from the connecting passages and compare it with the street stalls outside.",
+      "walk": [
+        "Find Kapan An",
+        "turn toward the old covered-market passages",
+        "leave through a different public lane if it is open."
+      ],
+      "photo": "Use the edge of an entry passage to show how it narrows into the market.",
+      "faq": [
+        "Where do I look for Bezisten on a first walk?",
+        "Start near Kapan An and look for the covered market between the surrounding shopping lanes."
+      ]
+    },
+    "zh": {
+      "title": "有顶市场",
+      "subtitle": "在仍有商贸活动的街巷中寻找旧有顶市场。",
+      "address": "旧巴扎核心，卡潘驿站旁",
+      "about": "有顶市场曾是奥斯曼商贸区内的独立设施。从与外侧商铺相通的通道，可以读出市场空间与露天商街的区别。",
+      "walk": [
+        "先辨认卡潘驿站",
+        "转入旧有顶市场通道",
+        "如通行开放，可从另一条巷道出去。"
+      ],
+      "photo": "在入口靠边取景，表现通道如何向市场内收窄。",
+      "faq": [
+        "第一次来，应该从哪里找有顶市场？",
+        "以卡潘驿站为起点，在周边购物巷道之间找有顶市场入口。"
+      ]
+    }
+  },
+  "mustafa-pasha-mosque": {
+    "localName": "Мустафа-пашина џамија",
+    "kind": "worship",
+    "source": "ottoman",
+    "next": "skopje-fortress",
+    "minutes": 25,
+    "en": {
+      "title": "Mustafa Pasha Mosque",
+      "subtitle": "A late-fifteenth-century mosque above the market lanes.",
+      "address": "Upper Old Bazaar near the approach to Kale Fortress",
+      "about": "The Ottoman monument stands on the higher side of the bazaar. From the approach, look for the relationship between the minaret, entrance portico and higher ground.",
+      "walk": [
+        "Walk uphill from the market core",
+        "look for the courtyard entrance",
+        "continue toward Kale after checking access at the mosque."
+      ],
+      "photo": "From outside the compound, compose the portico and minaret together if sightlines permit.",
+      "faq": [
+        "When is it appropriate to walk into the mosque compound?",
+        "Look for visitor instructions at the gate and ask about current access. Give worshippers priority and plan the exterior for a brief stop."
+      ]
+    },
+    "zh": {
+      "title": "穆斯塔法帕夏清真寺",
+      "subtitle": "走上市场高处，参观十五世纪末的清真寺。",
+      "address": "旧巴扎高处，靠近卡莱要塞上坡路段",
+      "about": "这座奥斯曼地标建在市场较高的一侧。沿入口走近时留意宣礼塔、门廊和坡地的关系。",
+      "walk": [
+        "从市场核心区沿坡上行",
+        "辨认庭院入口",
+        "核对清真寺参观安排后再往要塞走。"
+      ],
+      "photo": "从围墙外寻找可同时拍到门廊与宣礼塔的角度。",
+      "faq": [
+        "什么时候适合走进清真寺院区？",
+        "在门口查看参观说明并询问当时是否开放。礼拜者优先，短暂停留可先看外观。"
+      ]
+    }
+  },
+  "skopje-fortress": {
+    "localName": "Скопско Кале",
+    "kind": "heritage",
+    "source": "city",
+    "next": "mustafa-pasha-mosque",
+    "minutes": 45,
+    "en": {
+      "title": "Skopje Fortress (Kale)",
+      "subtitle": "Walk up to the fortified hill above the Old Bazaar.",
+      "address": "Kale hill, approach from the upper Old Bazaar near Mustafa Pasha Mosque",
+      "about": "The fortress occupies a strategic hill above the Vardar. The visible walls and towers make it easy to read the height difference between the market and the fortification.",
+      "walk": [
+        "Start near Mustafa Pasha Mosque",
+        "follow the public approach uphill",
+        "read the gate notices and look along the walls from permitted ground."
+      ],
+      "photo": "From the public approach, use the hillside to emphasize the rising line of the walls.",
+      "faq": [
+        "How can I see the fortress if the gate is closed?",
+        "Use the approach for views of the walls and return downhill to the bazaar. Check posted conditions before relying on a panorama from inside."
+      ]
+    },
+    "zh": {
+      "title": "斯科普里卡莱要塞",
+      "subtitle": "从旧巴扎攀上瓦尔达尔河上方的城防高地。",
+      "address": "卡莱山丘，从穆斯塔法帕夏清真寺附近上坡",
+      "about": "要塞位于瓦尔达尔河上方的重要高地。可从城墙和塔楼辨认商贸街区和城防之间的高差。",
+      "walk": [
+        "从穆斯塔法帕夏清真寺附近出发",
+        "沿公共道路登坡",
+        "看城门告示，并从开放地段观察城墙。"
+      ],
+      "photo": "在公共接近道路上用山坡衬托城墙逐渐升高的轮廓。",
+      "faq": [
+        "如果要塞关门还能看什么？",
+        "在上坡道路看外墙后折回旧巴扎。若为城内全景专程来，请先查城门开放告示。"
+      ]
+    }
+  },
+  "bit-pazar": {
+    "localName": "Бит-пазар",
+    "kind": "market",
+    "source": "cityCulture",
+    "next": "sultan-murad-mosque",
+    "minutes": 30,
+    "en": {
+      "title": "Bit Pazar",
+      "subtitle": "Browse the everyday food market at the north end of the Old Bazaar.",
+      "address": "North end of the Old Bazaar, toward Boulevard Krste Misirkov",
+      "about": "Bit Pazar extends the historic trading area into a working market of daily shopping. Compare the produce aisles with the craft and café lanes farther south.",
+      "walk": [
+        "Walk north from the heritage lanes",
+        "choose a signed market entrance",
+        "exit the covered stalls toward the bazaar for the walk back."
+      ],
+      "photo": "Photograph the edge of the market from a spot clear of the sellers. Ask before close-ups.",
+      "faq": [
+        "Should I bring a bag and cash to Bit Pazar?",
+        "A small bag is useful for produce. Confirm prices and accepted payment with the vendor before buying."
+      ]
+    },
+    "zh": {
+      "title": "比特巴扎",
+      "subtitle": "从旧巴扎北端走进平日居民采购食品的市场。",
+      "address": "旧巴扎北端，克尔斯泰米西尔科夫大道方向",
+      "about": "比特巴扎把历史贸易区延续到日常采购市场。可把货摊间的蔬果通道与南面的手工艺、咖啡馆巷道作比较。",
+      "walk": [
+        "从历史街区往北走",
+        "找有标识的市场入口",
+        "逛完摊位后向旧巴扎方向步行返回。"
+      ],
+      "photo": "在商贩通行线之外拍市场边缘，近距离拍人或货品前先征得同意。",
+      "faq": [
+        "去比特巴扎需要带袋子和现金吗？",
+        "买蔬果时小袋子有用。实付前先向摊主确认价格和可用支付方式。"
+      ]
+    }
+  },
+  "church-of-holy-salvation": {
+    "localName": "Свети Спас",
+    "kind": "worship",
+    "source": "military",
+    "next": "mustafa-pasha-mosque",
+    "minutes": 30,
+    "en": {
+      "title": "Church of the Holy Saviour",
+      "subtitle": "Find the church and Goce Delčev memorial in a courtyard beneath Kale.",
+      "address": "Samuilova approach below Kale Fortress, Old Bazaar",
+      "about": "The Holy Saviour complex includes the tomb of Goce Delčev. Allow time to distinguish the court and memorial from the church interior with its carved iconostasis.",
+      "walk": [
+        "Approach along Samuilova under Kale",
+        "look for the courtyard gate",
+        "check whether there is separate access to the church before going in."
+      ],
+      "photo": "From the open court, photograph the approach only where visitor guidance permits.",
+      "faq": [
+        "Is the Goce Delčev tomb at this church?",
+        "Yes. Follow the entrance signs for the memorial and ask staff about separate arrangements for seeing the iconostasis."
+      ]
+    },
+    "zh": {
+      "title": "圣救世主教堂",
+      "subtitle": "在卡莱山下的庭院寻找教堂与戈采·德尔切夫纪念地。",
+      "address": "旧巴扎卡莱要塞下方，萨穆伊洛瓦街方向",
+      "about": "圣救世主教堂建筑群内设戈采·德尔切夫墓。留时间分别辨认庭院纪念区、教堂室内和木雕圣像壁。",
+      "walk": [
+        "沿萨穆伊洛瓦街往卡莱山脚走",
+        "寻找庭院门",
+        "入内前核对教堂是否独立开放。"
+      ],
+      "photo": "若现场允许，可在开放庭院靠边拍摄进入教堂的路径。",
+      "faq": [
+        "戈采·德尔切夫的墓就在这座教堂吗？",
+        "是。按入口纪念地标牌进入，另向工作人员询问木雕圣像壁参观安排。"
+      ]
+    }
+  },
+  "sultan-murad-mosque": {
+    "localName": "Султан-муратова џамија",
+    "kind": "worship",
+    "source": "ottoman",
+    "next": "old-clock-tower",
+    "minutes": 25,
+    "en": {
+      "title": "Sultan Murad Mosque",
+      "subtitle": "Visit the hilltop mosque precinct beside the old clock tower.",
+      "address": "High ground above Bit Pazar, adjoining the historic clock tower",
+      "about": "The precinct pairs a major Ottoman mosque with a civic timekeeping landmark on the former upper town hill. The open approach gives a sense of their elevation over the market.",
+      "walk": [
+        "Leave Bit Pazar on the uphill side",
+        "find the mosque courtyard gate",
+        "view the adjacent clock tower from permitted ground."
+      ],
+      "photo": "Use a public sightline from the approach to show the mosque and clock tower in context.",
+      "faq": [
+        "Can I see the clock tower on the same walk?",
+        "Yes. It stands on the adjoining plateau. Check courtyard access separately from viewing the tower exterior."
+      ]
+    },
+    "zh": {
+      "title": "苏丹穆拉德清真寺",
+      "subtitle": "到比特巴扎上方的山坡，辨认古钟楼旁的清真寺。",
+      "address": "比特巴扎上方高地，毗邻历史钟楼",
+      "about": "昔日上城区的山丘上，奥斯曼清真寺与城市报时建筑相邻。从入口外看，可体会它们所在平台与市场之间的高差。",
+      "walk": [
+        "从比特巴扎较高的一侧离开",
+        "寻找清真寺庭院门",
+        "从允许通行的位置看相邻钟楼。"
+      ],
+      "photo": "在公共上坡路段找可同时看见清真寺和钟楼的视线。",
+      "faq": [
+        "同一段步行能顺便看钟楼吗？",
+        "可以。钟楼就在相邻平台上，看钟楼外观与进庭院须分别确认。"
+      ]
+    }
+  },
+  "old-clock-tower": {
+    "localName": "Саат-кула",
+    "kind": "heritage",
+    "source": "ottoman",
+    "next": "sultan-murad-mosque",
+    "minutes": 20,
+    "en": {
+      "title": "Old Clock Tower",
+      "subtitle": "Look up at the Ottoman-era civic timepiece on the market hillside.",
+      "address": "Plateau beside Sultan Murad Mosque above Bit Pazar",
+      "about": "The tourism agency dates the tower to 1566–1573 and describes it as a clock once heard across the city. Its height is easiest to appreciate from the adjoining open approach.",
+      "walk": [
+        "Start near Bit Pazar",
+        "climb toward the mosque precinct",
+        "look for the tower above the surrounding roofline."
+      ],
+      "photo": "Step back into the permitted approach to frame the tower above the surrounding roofs.",
+      "faq": [
+        "Is the old clock tower a place to climb for a view?",
+        "Plan for an exterior stop. Confirm any access at the precinct and do not rely on interior stairs or a public deck."
+      ]
+    },
+    "zh": {
+      "title": "旧钟楼",
+      "subtitle": "在市场山坡上抬头寻找奥斯曼时代的报时地标。",
+      "address": "比特巴扎上方，苏丹穆拉德清真寺相邻平台",
+      "about": "国家旅游机构把钟楼断代为 1566 至 1573 年，也记载了过去全城能听到的报时声。从入口一侧的开敞处才能看清塔楼高度。",
+      "walk": [
+        "从比特巴扎附近出发",
+        "登坡走向清真寺院区",
+        "在周围屋顶上方找钟楼。"
+      ],
+      "photo": "退到可通行的接近道路，把钟楼放在周围屋顶之上取景。",
+      "faq": [
+        "能登上旧钟楼俯瞰市场吗？",
+        "按外观停留安排。询问现场是否有参观通道，行程不要依赖登塔或观景台。"
+      ]
+    }
+  },
+  "ishak-bey-mosque": {
+    "localName": "Исхак-бегова џамија",
+    "kind": "worship",
+    "source": "ottoman",
+    "next": "bit-pazar",
+    "minutes": 20,
+    "en": {
+      "title": "Ishak Bey Mosque",
+      "subtitle": "Seek out the mosque also known as Aladža near the northern bazaar.",
+      "address": "Northern market area, near Bit Pazar",
+      "about": "The national guide records this as an early Ottoman mosque, also known as Aladža. Look for the enclosed precinct as you move out of the denser market streets.",
+      "walk": [
+        "Begin at the north market",
+        "follow signs for Ishak Bey or Aladža",
+        "check the courtyard gate before continuing."
+      ],
+      "photo": "Choose a street angle that shows the entrance and minaret without photographing worshippers.",
+      "faq": [
+        "Do Ishak Bey and Aladža refer to the same place here?",
+        "Yes, both names identify this mosque near Bit Pazar. Include Skopje in a map search to distinguish similarly named mosques."
+      ]
+    },
+    "zh": {
+      "title": "伊沙克贝伊清真寺",
+      "subtitle": "在北侧市场附近探访又称阿拉贾的清真寺。",
+      "address": "北侧市场一带，比特巴扎附近",
+      "about": "国家旅游资料记载这座早期奥斯曼清真寺亦称阿拉贾。从密集的市场巷道出来后，留意有围墙的院区。",
+      "walk": [
+        "从北侧市场起步",
+        "查找伊沙克贝伊或阿拉贾的标识",
+        "经过时先核对庭院入口是否开放。"
+      ],
+      "photo": "从街边选取能表现入口和宣礼塔的角度，避开正在礼拜的人群。",
+      "faq": [
+        "伊沙克贝伊与阿拉贾在这里是同一地点吗？",
+        "是，两个名字都指比特巴扎附近这座清真寺。地图搜索时加上斯科普里以区分同名地点。"
+      ]
+    }
+  },
+  "museum-of-macedonia": {
+    "localName": "Музеј на Република Северна Македонија",
+    "kind": "museum",
+    "source": "museumMacedonia",
+    "next": "kursumli-an",
+    "minutes": 60,
+    "en": {
+      "title": "Museum of Macedonia",
+      "subtitle": "Explore collections in the museum near the northern caravanserai.",
+      "address": "Josif Mihajlovikj 7, northern Old Bazaar",
+      "about": "The university's institutional guide describes roots in archaeology, history and ethnology museums. Ask which collections are on view and connect the indoor visit to the adjacent heritage buildings.",
+      "walk": [
+        "Walk uphill through the bazaar",
+        "find the museum entrance on Josif Mihajlovikj",
+        "check whether Kuršumli An is accessible separately."
+      ],
+      "photo": "Frame the museum approach outdoors and ask before taking photos of collections.",
+      "faq": [
+        "Is this the same museum as the riverfront Archaeological Museum?",
+        "They are separate visitor destinations. For this museum use the address in the northern Old Bazaar."
+      ]
+    },
+    "zh": {
+      "title": "马其顿博物馆",
+      "subtitle": "在旧巴扎北端驿站旁的博物馆了解马其顿馆藏。",
+      "address": "旧巴扎北端，约瑟夫·米哈伊洛维奇街 7 号",
+      "about": "当地大学指南记载此馆源自考古、历史和民族学博物馆。可先问当天开放的馆藏，再把室内参观与邻近古迹组合。",
+      "walk": [
+        "沿旧巴扎上坡走",
+        "在约瑟夫·米哈伊洛维奇街找博物馆入口",
+        "另问库尔舒姆利驿站是否可进。"
+      ],
+      "photo": "可在室外取景拍摄博物馆入口道路，拍馆藏前先问工作人员。",
+      "faq": [
+        "它和河边的考古博物馆是同一座吗？",
+        "两个场馆各有入口。前往马其顿博物馆应使用旧巴扎北端的地址。"
+      ]
+    }
+  },
+  "archaeological-museum": {
+    "localName": "Археолошки музеј",
+    "kind": "museum",
+    "source": "archaeology",
+    "next": "stone-bridge",
+    "minutes": 70,
+    "en": {
+      "title": "Archaeological Museum of North Macedonia",
+      "subtitle": "Use the riverfront galleries to put finds from antiquity and earlier periods in context.",
+      "address": "North bank of the Vardar at the Bridge of Civilizations",
+      "about": "The museum identifies departments spanning prehistory, antiquity, the medieval period, coins and more. Pick an era before entering and leave time to read object origins.",
+      "walk": [
+        "Reach the riverside quay",
+        "find the museum's colonnaded riverfront building",
+        "read the exhibit orientation before choosing a gallery."
+      ],
+      "photo": "Use the opposite bank to capture the building's columned front across the river.",
+      "faq": [
+        "Which collection should I choose for a shorter visit?",
+        "Use the museum's departmental list and pick one period or the coin collection. Check what's currently on display at the entrance."
+      ]
+    },
+    "zh": {
+      "title": "北马其顿考古博物馆",
+      "subtitle": "在河滨展厅了解古代及更早时期的出土物。",
+      "address": "瓦尔达尔河北岸，文明桥旁",
+      "about": "博物馆公布的部门涵盖史前、古代、中世纪、钱币等领域。进门前可先选一个时期，为阅读出土地点和器物说明留时间。",
+      "walk": [
+        "走到河滨步道",
+        "找河边有列柱的馆舍",
+        "看看展厅导览后再选参观顺序。"
+      ],
+      "photo": "站到对岸，把瓦尔达尔河和临水列柱立面一起拍入。",
+      "faq": [
+        "时间少，应该选哪部分馆藏？",
+        "看博物馆的部门介绍，选一个时代或钱币收藏。到入口先确认当天实际开放的陈列。"
+      ]
+    }
+  },
+  "museum-macedonian-struggle": {
+    "localName": "Музеј на македонската борба",
+    "kind": "museum",
+    "source": "struggle",
+    "next": "stone-bridge",
+    "minutes": 75,
+    "en": {
+      "title": "Museum of the Macedonian Struggle",
+      "subtitle": "Follow the museum's nineteenth- and twentieth-century account of statehood.",
+      "address": "North bank near Stone Bridge, on 11 March Street",
+      "about": "This national museum organizes its exhibition around the pursuit of Macedonian statehood and independence. Give yourself time for labels and the institutional perspective of the displays.",
+      "walk": [
+        "Cross to the north bank",
+        "locate the museum near Stone Bridge",
+        "ask about the order of galleries at the ticket desk."
+      ],
+      "photo": "From the quay, frame the river-facing frontage. Ask about any indoor rules.",
+      "faq": [
+        "Can I arrive just before the building closes?",
+        "Check gallery last entry first. It comes earlier than the closing time and is listed separately by the museum."
+      ]
+    },
+    "zh": {
+      "title": "马其顿独立斗争博物馆",
+      "subtitle": "沿展陈了解十九至二十世纪的国家建立与独立历程。",
+      "address": "石桥附近北岸，三月十一日街",
+      "about": "这座国家博物馆以争取马其顿国家地位和独立为展陈主线。留时间阅读展签，并了解展览采用的历史叙述视角。",
+      "walk": [
+        "过桥到北岸",
+        "在石桥旁辨认馆舍",
+        "在售票处问清展厅顺序。"
+      ],
+      "photo": "从河滨取景表现临水正面；拍室内前问清馆方要求。",
+      "faq": [
+        "馆舍打烊前一刻抵达还能参观吗？",
+        "先确认展厅最后入场时间。它早于关门时间，馆方单独列出。"
+      ]
+    }
+  },
+  "holocaust-memorial-center": {
+    "localName": "Меморијален центар на холокаустот",
+    "kind": "museum",
+    "source": "holocaust",
+    "next": "museum-macedonian-struggle",
+    "minutes": 60,
+    "en": {
+      "title": "Holocaust Memorial Center",
+      "subtitle": "Make time for a reflective visit about Macedonia's Jewish communities and the Holocaust.",
+      "address": "Former Jewish quarter near the north side of Stone Bridge",
+      "about": "The memorial stands in the area of Skopje's former Jewish quarter. The exhibition links community life with deportation and loss during the Holocaust.",
+      "walk": [
+        "Start from the north bridge landing",
+        "find the memorial near the riverfront museums",
+        "allow a quiet period for the galleries before returning to the bazaar."
+      ],
+      "photo": "If photographing, keep to allowed exterior angles and avoid framing other visitors at the memorial.",
+      "faq": [
+        "Should I treat the center as a quick photo stop?",
+        "Set aside time to read and reflect. Ask staff about photography and the recommended sequence before entering galleries."
+      ]
+    },
+    "zh": {
+      "title": "犹太人大屠杀纪念中心",
+      "subtitle": "留出一段安静时间，了解当地犹太社群和大屠杀历史。",
+      "address": "石桥北侧附近的前犹太街区",
+      "about": "纪念中心位于斯科普里昔日犹太街区一带。展陈把战前社群生活与大屠杀期间的驱逐与伤亡相联系。",
+      "walk": [
+        "从石桥北桥头出发",
+        "在河滨博物馆一带寻找纪念中心",
+        "安静参观后再返回旧巴扎。"
+      ],
+      "photo": "若拍照，请使用现场允许的外部角度，避免将其他纪念者拍进画面。",
+      "faq": [
+        "能把这里当成快速打卡拍照点吗？",
+        "应留时间阅读和反思。进入展厅前先问工作人员拍摄规定和建议参观顺序。"
+      ]
+    }
+  },
+  "mother-teresa-memorial-house": {
+    "localName": "Спомен куќа на Мајка Тереза",
+    "kind": "memorial",
+    "source": "teresa",
+    "next": "macedonia-square",
+    "minutes": 40,
+    "en": {
+      "title": "Mother Teresa Memorial House",
+      "subtitle": "See personal objects and a chapel along Macedonia Street.",
+      "address": "Macedonia Street, on the former Sacred Heart church site",
+      "about": "The memorial uses the site of the Catholic church where Mother Teresa was baptized. Its collection includes a sari and a copy of the baptismal certificate, with a chapel above the gallery.",
+      "walk": [
+        "Walk south from Macedonia Square along the pedestrian street",
+        "look for the memorial entrance",
+        "check whether the chapel is accessible after seeing the gallery."
+      ],
+      "photo": "Frame the house from the pedestrian approach so the upper chapel volume remains visible.",
+      "faq": [
+        "Do I need a ticket or reservation?",
+        "The Memorial House lists free admission and asks groups to book in advance. Check its last-entry time before visiting."
+      ]
+    },
+    "zh": {
+      "title": "特蕾莎修女纪念馆",
+      "subtitle": "在马其顿步行街沿线参观纪念物和上层小教堂。",
+      "address": "马其顿街，原天主教圣心堂旧址",
+      "about": "纪念馆建在特蕾莎修女受洗的天主教堂旧址。馆藏包含纱丽与洗礼证书副本，展厅上方还有一座小教堂。",
+      "walk": [
+        "从马其顿广场沿步行街往南",
+        "寻找纪念馆入口",
+        "参观陈列后再确认小教堂是否开放。"
+      ],
+      "photo": "从步行街的接近方向拍摄，使上方小教堂体量也能入镜。",
+      "faq": [
+        "入馆需要买票或预约吗？",
+        "纪念馆公布免费入场，并要求团体提前预约。前往前请查最后入场时间。"
+      ]
+    }
+  },
+  "macedonia-square": {
+    "localName": "Плоштад Македонија",
+    "kind": "public",
+    "source": "city",
+    "next": "stone-bridge",
+    "minutes": 20,
+    "en": {
+      "title": "Macedonia Square",
+      "subtitle": "Orient yourself at the open square linking the modern center with Stone Bridge.",
+      "address": "South landing of Stone Bridge, central Skopje",
+      "about": "The square opens the pedestrian approach to Stone Bridge and the north-bank bazaar. Use the central equestrian monument to orient yourself before following the river crossing.",
+      "walk": [
+        "Arrive along Macedonia Street",
+        "pause at the edge of the central fountain",
+        "walk toward the south bridge landing and across."
+      ],
+      "photo": "From the square's outer edge, look for a composition that includes the open paving and the equestrian statue.",
+      "faq": [
+        "Which side of the square leads into the Old Bazaar?",
+        "Head to the river side and cross Stone Bridge to the north landing."
+      ]
+    },
+    "zh": {
+      "title": "马其顿广场",
+      "subtitle": "在连接现代市中心和石桥的开阔广场辨认方向。",
+      "address": "市中心石桥南端",
+      "about": "广场把步行街接到石桥，也为北岸旧巴扎提供了步行入口。可用中央骑马雕像定位，再找过河的方向。",
+      "walk": [
+        "沿马其顿街到达",
+        "在中央喷泉外侧稍作停留",
+        "走向石桥南桥头并过河。"
+      ],
+      "photo": "从广场外围取景，把开敞铺地与骑马雕像同时纳入。",
+      "faq": [
+        "从广场哪一侧能去旧巴扎？",
+        "往河边走，上石桥过河到北桥头。"
+      ]
+    }
+  },
+  "museum-city-of-skopje": {
+    "localName": "Музеј на Град Скопје",
+    "kind": "museum",
+    "source": "cityCulture",
+    "next": "mother-teresa-memorial-house",
+    "minutes": 60,
+    "en": {
+      "title": "Museum of the City of Skopje",
+      "subtitle": "See the city museum in the surviving part of the former rail station.",
+      "address": "Old Railway Station at the southern end of Macedonia Street",
+      "about": "The museum occupies a surviving part of the old station damaged by the 1963 earthquake. Look up at the station clock before going inside to see the city's collections.",
+      "walk": [
+        "Follow Macedonia Street south",
+        "look for the former station façade and clock",
+        "enter at the sign for the city museum."
+      ],
+      "photo": "From a public approach in front of the façade, include the clock and the remaining station masonry.",
+      "faq": [
+        "Should I go to the present railway station for this museum?",
+        "Go to the former station at the end of Macedonia Street. Use the museum name for navigation."
+      ]
+    },
+    "zh": {
+      "title": "斯科普里市博物馆",
+      "subtitle": "在旧铁路车站幸存下来的建筑中认识城市历史。",
+      "address": "马其顿街南端的旧铁路车站",
+      "about": "1963 年地震损坏了旧车站，博物馆设在幸存建筑内。进馆看城市收藏前，先抬头找旧车站的时钟。",
+      "walk": [
+        "沿马其顿街向南",
+        "辨认旧站房正面和时钟",
+        "按城市博物馆标识进入。"
+      ],
+      "photo": "从正面开放道路取景，将时钟与保留的石墙一同拍入。",
+      "faq": [
+        "参观这座博物馆要去现在的火车站吗？",
+        "请去马其顿街尽头的旧车站，导航时搜索博物馆正式名称。"
+      ]
+    }
+  },
+  "museum-contemporary-art": {
+    "localName": "Музеј на современата уметност",
+    "kind": "museum",
+    "source": "moca",
+    "next": "skopje-fortress",
+    "minutes": 75,
+    "en": {
+      "title": "Museum of Contemporary Art",
+      "subtitle": "Visit the hillside gallery above Kale for contemporary exhibitions.",
+      "address": "Samuilova on the Kale hillside, above the Old Bazaar",
+      "about": "The museum's collection has international roots in the solidarity that followed the 1963 earthquake. Its hillside position and modern gallery building contrast with the fortress nearby.",
+      "walk": [
+        "Leave the upper bazaar toward the fortress",
+        "look for the museum on Samuilova",
+        "check the current exhibitions and return down the same public road."
+      ],
+      "photo": "From the forecourt, compare the clean gallery volumes with the slope behind them.",
+      "faq": [
+        "Can I reach the art museum without entering Kale Fortress?",
+        "Yes. Navigate to the museum on Samuilova and use the public street approach. Fortress entry is separate."
+      ]
+    },
+    "zh": {
+      "title": "斯科普里当代艺术博物馆",
+      "subtitle": "前往卡莱山坡上的展馆参观当代艺术展。",
+      "address": "旧巴扎上方卡莱山坡，萨穆伊洛瓦街",
+      "about": "1963 年地震后的国际援助为馆藏形成提供了基础。山坡上的现代展馆与附近要塞形成鲜明对照。",
+      "walk": [
+        "从旧巴扎高处朝要塞方向走",
+        "在萨穆伊洛瓦街寻找馆舍",
+        "确认当期展览，沿公共道路下山。"
+      ],
+      "photo": "在建筑前场取景，把简洁的展馆体量与后方山坡放进画面。",
+      "faq": [
+        "不进卡莱要塞也能到艺术博物馆吗？",
+        "可以。导航到萨穆伊洛瓦街上的博物馆，从公共道路步行抵达。要塞入口另设。"
+      ]
+    }
+  },
+  "art-bridge": {
+    "localName": "Мост на уметноста",
+    "kind": "public",
+    "source": "city",
+    "next": "national-opera-ballet",
+    "minutes": 15,
+    "en": {
+      "title": "Art Bridge",
+      "subtitle": "Follow the line of artists' figures on a separate pedestrian crossing.",
+      "address": "Vardar pedestrian crossing downstream of the museum footbridge",
+      "about": "The Art Bridge uses statues of cultural figures to turn a river crossing into a short outdoor walk. Read the bases and compare the open views upstream and downstream.",
+      "walk": [
+        "Follow the south bank downstream from Stone Bridge",
+        "look for the crossing marked by statues",
+        "return along either bank after crossing."
+      ],
+      "photo": "Stand at an end of the bridge and use the rows of figures to lead the eye across the water.",
+      "faq": [
+        "Is the Art Bridge the Stone Bridge with statues added?",
+        "This is a different footbridge downstream. Start at Stone Bridge and follow the quay to it."
+      ]
+    },
+    "zh": {
+      "title": "艺术桥",
+      "subtitle": "走上另一座人行桥，沿途看艺术人物雕像。",
+      "address": "考古博物馆前人行桥下游的瓦尔达尔河过河点",
+      "about": "艺术桥把文化人物塑像引入过河步行空间。可读雕像基座，再比较桥上两侧不同的河道视野。",
+      "walk": [
+        "从石桥沿南岸步道下游方向走",
+        "寻找带成排雕像的桥",
+        "过河后沿任一侧河岸返回。"
+      ],
+      "photo": "站在一侧桥头，用成排人像把视线引向河对岸。",
+      "faq": [
+        "艺术桥就是加装雕像的石桥吗？",
+        "这里是下游独立的人行桥。从石桥沿河滨步道即可找到。"
+      ]
+    }
+  },
+  "macedonian-national-theatre": {
+    "localName": "Македонски народен театар",
+    "kind": "performance",
+    "source": "theatre",
+    "next": "museum-macedonian-struggle",
+    "minutes": 120,
+    "en": {
+      "title": "Macedonian National Theatre",
+      "subtitle": "Check what is on at the theatre on the north-bank cultural walk.",
+      "address": "11 March Street 3, north bank of the Vardar",
+      "about": "The National Theatre operates this venue separately from the opera and ballet. The riverfront façade is a quick architectural stop, while a performance needs a separate evening plan.",
+      "walk": [
+        "Start on the north bank near Stone Bridge",
+        "locate the entrance at number 3",
+        "check the box-office information before an evening return."
+      ],
+      "photo": "From the quay, step far enough back to include the theatre entrance and the upper façade.",
+      "faq": [
+        "Can I use opera tickets at the National Theatre?",
+        "Book directly with the theatre for its own productions. Check the street address on the ticket to distinguish the venues."
+      ]
+    },
+    "zh": {
+      "title": "马其顿国家剧院",
+      "subtitle": "在北岸文化场馆之间步行，查询剧院当期演出。",
+      "address": "瓦尔达尔河北岸，三月十一日街 3 号",
+      "about": "国家剧院独立运营此场馆，可从河滨短暂停留欣赏正面建筑。若打算看戏，则可另安排晚间行程。",
+      "walk": [
+        "在石桥附近北岸起步",
+        "查找 3 号入口",
+        "晚上返回前先看售票处信息。"
+      ],
+      "photo": "在河滨后退几步，让剧院入口和上部立面都入镜。",
+      "faq": [
+        "能拿歌剧院的票进国家剧院吗？",
+        "国家剧院演出要通过该馆购票。核对票上的街道地址以区分各场馆。"
+      ]
+    }
+  },
+  "national-opera-ballet": {
+    "localName": "Национална опера и балет",
+    "kind": "performance",
+    "source": "opera",
+    "next": "macedonian-philharmonic",
+    "minutes": 120,
+    "en": {
+      "title": "National Opera and Ballet",
+      "subtitle": "Plan an evening at the opera and ballet venue by the Vardar.",
+      "address": "Goce Delchev Boulevard 4, central Skopje",
+      "about": "The institution stages opera and ballet in this building near the river. The angular exterior is worth a look on the way back from the market, even if the curtain time is later.",
+      "walk": [
+        "Walk along the north bank",
+        "turn toward Goce Delchev Boulevard 4",
+        "check the box-office location and notes for the performance entrance."
+      ],
+      "photo": "From the open approach, compose the angled forms above the entrance.",
+      "faq": [
+        "Where should I check whether there is a ballet tonight?",
+        "Use the National Opera and Ballet programme and call its ticket office if the show time or ticket availability is unclear."
+      ]
+    },
+    "zh": {
+      "title": "国家歌剧与芭蕾舞院",
+      "subtitle": "把瓦尔达尔河畔的歌剧或芭蕾演出安排在晚上。",
+      "address": "斯科普里市中心，戈采·德尔切夫大道 4 号",
+      "about": "机构在这座河滨建筑演出歌剧与芭蕾。即使不到开演时间，也可在逛完市场返程时看一眼带折角的建筑外观。",
+      "walk": [
+        "沿北岸步行",
+        "转向戈采·德尔切夫大道 4 号",
+        "核对售票处与演出观众入口。"
+      ],
+      "photo": "从室外接近位置取景，用入口上方的折线造型构图。",
+      "faq": [
+        "怎么查今晚有没有芭蕾演出？",
+        "查询国家歌剧与芭蕾舞院节目单。时间或余票看不清时，直接问该院售票处。"
+      ]
+    }
+  },
+  "macedonian-philharmonic": {
+    "localName": "Филхармонија",
+    "kind": "performance",
+    "source": "philharmonic",
+    "next": "national-opera-ballet",
+    "minutes": 120,
+    "en": {
+      "title": "Macedonian Philharmonic",
+      "subtitle": "Pick a concert or see the hall on the north side of the river.",
+      "address": "Goce Delchev Boulevard 2, close to the National Opera and Ballet",
+      "about": "The Philharmonic lists a separate hall and ticket office near the music school. Its location lets you pair an afternoon bazaar visit with an evening concert.",
+      "walk": [
+        "Start by the neighboring opera house",
+        "look for number 2 and the Philharmonic signs",
+        "confirm the entrance printed on your ticket."
+      ],
+      "photo": "Frame the hall's exterior from the open space outside without blocking evening queues.",
+      "faq": [
+        "Is the Philharmonic box office the same one as the opera's?",
+        "The Philharmonic lists its own box office next to the Ilija Nikolovski–Luj music school. Check its hours and the performance entrance separately."
+      ]
+    },
+    "zh": {
+      "title": "马其顿爱乐音乐厅",
+      "subtitle": "选择一场音乐会，或沿北岸看音乐厅外观。",
+      "address": "戈采·德尔切夫大道 2 号，国家歌剧与芭蕾舞院附近",
+      "about": "爱乐乐团公布了独立场馆及位于音乐学校旁的售票处。在这一区域，可以白天逛旧巴扎，晚上回来看音乐会。",
+      "walk": [
+        "从相邻歌剧院一带出发",
+        "找 2 号门牌和爱乐标识",
+        "确认演出门票上注明的观众入口。"
+      ],
+      "photo": "从室外开敞处取景拍外观，给晚上候场人群留出通道。",
+      "faq": [
+        "爱乐音乐厅与歌剧院的售票处是同一个吗？",
+        "爱乐公布的售票处在伊利亚·尼科洛夫斯基—卢伊音乐学校旁。请另查售票和演出入口。"
+      ]
+    }
+  },
+  "city-park": {
+    "localName": "Градски парк",
+    "kind": "park",
+    "source": "park",
+    "next": "skopje-zoo",
+    "minutes": 60,
+    "en": {
+      "title": "Skopje City Park",
+      "subtitle": "Take a lakeside walking break west of the historic center.",
+      "address": "Public park west of central Skopje, near the zoo and Vardar",
+      "about": "The City of Skopje's parks enterprise maintains public green space. In City Park, follow the paths around bodies of water and use the zoo frontage as an easy point of orientation.",
+      "walk": [
+        "Reach the green space west of the center",
+        "choose a path beside the park water",
+        "continue toward the zoo frontage or return toward the river."
+      ],
+      "photo": "Work from a path edge for reflections with trees in the frame.",
+      "faq": [
+        "Do I need to enter the zoo to walk through City Park?",
+        "The public park and zoo are separate destinations. Follow park paths for the walk and use the zoo entrance only for a zoo visit."
+      ]
+    },
+    "zh": {
+      "title": "斯科普里城市公园",
+      "subtitle": "从历史城区往西，到城市公园湖畔散步。",
+      "address": "斯科普里市中心以西，动物园及瓦尔达尔河附近",
+      "about": "城市绿地由斯科普里园林公共企业养护。在公园内沿水边步道走，可用动物园外侧作方位参照。",
+      "walk": [
+        "走到市中心西侧绿地",
+        "选一条靠近水面的园路",
+        "继续到动物园外或往河边返回。"
+      ],
+      "photo": "站在园路边用树木和水面倒影构图。",
+      "faq": [
+        "逛城市公园要先进动物园吗？",
+        "公园和动物园各有独立入口。散步请走公园小径，参观动物园再走园方售票入口。"
+      ]
+    }
+  },
+  "skopje-zoo": {
+    "localName": "Зоолошка градина Скопје",
+    "kind": "museum",
+    "source": "zoo",
+    "next": "city-park",
+    "minutes": 100,
+    "en": {
+      "title": "Skopje Zoo",
+      "subtitle": "Set aside a family visit inside the zoo at City Park.",
+      "address": "Zoo entrance within City Park on the west side of central Skopje",
+      "about": "The City of Skopje records that the zoo was founded in 1926. Use its visitor signs to plan the enclosures and keep pauses for children within the route.",
+      "walk": [
+        "Approach through City Park",
+        "locate the zoo's marked entrance",
+        "follow the enclosure route shown at the gate."
+      ],
+      "photo": "Use visitor positions and avoid flash or reaching into enclosures.",
+      "faq": [
+        "Can I see the zoo from a free walk in City Park?",
+        "The zoo has its own entrance and visiting arrangements. Use City Park for a walk and check zoo admission and hours if you plan to enter."
+      ]
+    },
+    "zh": {
+      "title": "斯科普里动物园",
+      "subtitle": "在城市公园内安排一段亲子动物园行程。",
+      "address": "市中心以西的城市公园内，认准动物园入口",
+      "about": "斯科普里市记载动物园创办于 1926 年。进门可按园内导览选择展区，同时给孩子留出休息时间。",
+      "walk": [
+        "从城市公园走来",
+        "寻找动物园专用入口",
+        "按入口导览查看动物区域的动线。"
+      ],
+      "photo": "在游客区域拍照，避免闪光或将手伸进围栏。",
+      "faq": [
+        "在城市公园免费散步时能顺便参观动物园吗？",
+        "动物园单设入口和参观安排。若要入园，请提前查看门票与场馆开放时间。"
+      ]
+    }
+  },
+  "vodno-forest-park": {
+    "localName": "Парк-шума Водно",
+    "kind": "park",
+    "source": "vodno",
+    "next": "millennium-cross",
+    "minutes": 90,
+    "en": {
+      "title": "Vodno Forest Park",
+      "subtitle": "Follow wooded hillside paths above the city at your own pace.",
+      "address": "Middle Vodno trail area southwest of central Skopje",
+      "about": "The parks enterprise dates systematic reforestation to 1946 and manages the park-forest. Walk in the wooded belt to see the change from the built city edge to forested hillside.",
+      "walk": [
+        "Use Sredno Vodno as an identifiable trailhead",
+        "choose a signed route appropriate to your time",
+        "turn back at a marked junction if conditions change."
+      ],
+      "photo": "From a signed viewpoint, frame the forested slope against the valley rather than stepping off trail.",
+      "faq": [
+        "Do I have to hike to the summit to visit Vodno?",
+        "No summit is needed for a forest outing. Begin at Middle Vodno and choose a signed short walk suited to the weather."
+      ]
+    },
+    "zh": {
+      "title": "沃德诺森林公园",
+      "subtitle": "沿斯科普里上方林间山径，按自己的节奏走坡路。",
+      "address": "市中心西南，中沃德诺山径起点一带",
+      "about": "园林公共企业记载，系统性造林始于 1946 年，目前也负责森林公园养护。沿林间路走，可以看到建筑边缘逐渐转为有树木覆盖的山坡。",
+      "walk": [
+        "以中沃德诺作为易辨识的起点",
+        "按时间选有标示的山径",
+        "天气变化时在有路标的分岔处折返。"
+      ],
+      "photo": "从有标示的观景点拍摄树林山坡及谷地，避免离开山径。",
+      "faq": [
+        "游览沃德诺一定要徒步登顶吗？",
+        "可以从中沃德诺起步，按天气和体力选择有标示的短路线。"
+      ]
+    }
+  },
+  "millennium-cross": {
+    "localName": "Милениумски крст",
+    "kind": "park",
+    "source": "vodno",
+    "next": "vodno-forest-park",
+    "minutes": 75,
+    "en": {
+      "title": "Millennium Cross",
+      "subtitle": "Aim for Krstovar peak for the cross and views over the valley.",
+      "address": "Krstovar summit, Vodno, above Middle Vodno",
+      "about": "The Millennium Cross marks Vodno's highest point, which the parks enterprise gives as 1,067 metres. The summit is much more exposed than the lower forest paths.",
+      "walk": [
+        "Start at Middle Vodno",
+        "check transport or pick a signed ascent",
+        "keep to the summit visitor area and verify the descent before lingering."
+      ],
+      "photo": "Use the summit visitor area to frame the valley below. Bring a layer for the exposed viewpoint.",
+      "faq": [
+        "Can I depend on the cable car both ways?",
+        "Check the operator's same-day status before departure and verify the last descent. Have a walking alternative only if you are prepared for the route."
+      ]
+    },
+    "zh": {
+      "title": "千禧十字架",
+      "subtitle": "登上克尔斯托瓦尔顶峰看十字架与谷地视野。",
+      "address": "沃德诺山克尔斯托瓦尔峰，中沃德诺上方",
+      "about": "千禧十字架位于沃德诺山最高处；园林公共企业公布峰顶海拔为 1,067 米。峰顶比山下林间小径更开敞，也更容易受风。",
+      "walk": [
+        "从中沃德诺出发",
+        "核对交通或选择有标示的登山路",
+        "到峰顶后沿游客区游览并核对下山安排。"
+      ],
+      "photo": "在开放的峰顶区域拍摄谷地，开阔观景处风大，可准备外层衣服。",
+      "faq": [
+        "上下山都能依赖缆车吗？",
+        "出发前向运营方查询当天状况，并核对最后下行时间。只有做好山径准备时才安排步行下撤。"
+      ]
+    }
+  },
+  "matka-canyon": {
+    "localName": "Кањон Матка",
+    "kind": "park",
+    "source": "matka",
+    "next": "vodno-forest-park",
+    "minutes": 150,
+    "en": {
+      "title": "Matka Canyon",
+      "subtitle": "Follow the Treska valley to a lakeside trail and rock walls.",
+      "address": "Matka visitor approach on the Treska River, southwest of Skopje",
+      "about": "The municipal parks enterprise lists Matka among the protected areas where it maintains greenery. The path beside the reservoir makes the scale of the rock walls easy to see.",
+      "walk": [
+        "Travel to the Matka approach separately from the bazaar walk",
+        "follow the signed public path",
+        "check local conditions before choosing any boat trip or onward hike."
+      ],
+      "photo": "For reflections, look from a stable point on the public lakeside path. Leave the narrow passing areas clear.",
+      "faq": [
+        "Can I add Matka as the last stop on the bazaar walking route?",
+        "Make it a separate outing. Arrange the return from Matka and leave extra time if you want to walk along the reservoir or take a boat."
+      ]
+    },
+    "zh": {
+      "title": "马特卡峡谷",
+      "subtitle": "沿特雷斯卡河谷寻找水库步道与峡谷岩壁。",
+      "address": "斯科普里西南方向，特雷斯卡河马特卡游客入口",
+      "about": "市园林公共企业把马特卡列为其负责养护绿植的保护区之一。沿水库步道可以近距离体会岩壁尺度。",
+      "walk": [
+        "单独安排从市区去马特卡的交通",
+        "沿有标示的公共步道走",
+        "另核对船游或继续徒步的现场条件。"
+      ],
+      "photo": "在平稳的公共湖边步道上拍岩壁倒影，给狭窄路段留出行人通过空间。",
+      "faq": [
+        "逛完旧巴扎，可以把这当作步行路线最后一站吗？",
+        "请单独安排峡谷行程，提前确定回程。若还想沿水库散步或乘船，另留时间。"
+      ]
+    }
+  }
+}

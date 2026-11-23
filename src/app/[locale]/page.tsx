@@ -1,3 +1,7 @@
+import { hasLocale } from 'next-intl';
+import { notFound } from 'next/navigation';
+import { routing } from '@/i18n/routing';
+import NearbyPlaces from '@/components/NearbyPlaces';
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
@@ -16,6 +20,7 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
   setRequestLocale(locale);
 
   return (
@@ -24,6 +29,7 @@ export default async function HomePage({
       <main>
         <Hero />
         <Intro />
+        <NearbyPlaces locale={locale} preview />
         <InfoSection />
         <Transportation />
         <Gallery />

@@ -1,8 +1,9 @@
-import { NextIntlClientProvider } from 'next-intl';
+import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
+import { canonicalMetadata } from '@/lib/nearby';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -14,28 +15,18 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://oldbazaarskopje.com';
-
-  const zhUrl = `${baseUrl}/`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const metadata = canonicalMetadata('', locale);
 
   return {
     title: messages.meta.title,
     description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
-      },
-    },
+    ...metadata,
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
-      url: selfUrl,
+      url: String(metadata.alternates?.canonical),
       siteName: 'Skopje Old Bazaar',
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
@@ -52,7 +43,7 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
 
-  if (!routing.locales.includes(locale as any)) {
+  if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
 
