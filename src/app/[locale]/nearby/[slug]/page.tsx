@@ -14,8 +14,6 @@ export function generateStaticParams() {
   return nearbySlugs.map((slug) => ({ slug }));
 }
 
-export const dynamicParams = false;
-
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   if (!hasLocale(routing.locales, locale) || !Object.hasOwn(nearbyPlaces, slug)) notFound();
