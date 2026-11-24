@@ -3,12 +3,22 @@
     "en": {
       "history": "The national tourism guide records two accounts of the crossing's origins, one associated with Justinian's rebuilding after the earthquake of 518 and the other with the reign of Mehmed II in the fifteenth century. The bridge still represents the city in its coat of arms.",
       "observe": "On the bridge deck, notice how little of the arches you can see. The upstream quay gives you a side view of both the vaults and the piers, so make that stop before crossing if you want to understand the structure.",
-      "approach": "From Macedonia Square use the stone crossing at the square's riverside edge. At the north landing head toward the domes of Daut Pasha Hammam for the bazaar, or turn onto the quay to compare the older crossing with the newer footbridges."
+      "approach": "From Macedonia Square use the stone crossing at the square's riverside edge. At the north landing head toward the domes of Daut Pasha Hammam for the bazaar, or turn onto the quay to compare the older crossing with the newer footbridges.",
+      "photoQuestion": "Which bank gives the clearest view of the arches?",
+      "observeQuestion": "What can I compare before stepping onto the bridge?",
+      "stay": "Stay beside Macedonia Square for a south-to-north crossing at the start of the day. A room in the bazaar puts the north quay and the route to Daut Pasha Hammam first.",
+      "advice": "Walk the quay before crossing if the arches are your priority. Save your time on the bridge deck for the river view and the route into the market.",
+      "secondPhoto": "From the south landing, look north along the deck towards the bazaar approach; this records the crossing as a route as well as a structure."
     },
     "zh": {
       "history": "国家旅游指南记载了两种起源说法，一种与 518 年地震后查士丁尼时期的重建有关，另一种将桥的修建归于 15 世纪穆罕默德二世在位时期。石桥至今仍是市徽的一部分。",
       "observe": "站在桥面时，很难看到脚下的拱券。先到上游一侧的河岸步道，从侧面观察桥拱和桥墩，再走上桥面。",
-      "approach": "从马其顿广场靠河一侧走上石桥。到北岸后，朝达乌特帕夏浴场的圆顶走可进入旧巴扎，沿河转弯则能继续比较古桥与较新的人行桥。"
+      "approach": "从马其顿广场靠河一侧走上石桥。到北岸后，朝达乌特帕夏浴场的圆顶走可进入旧巴扎，沿河转弯则能继续比较古桥与较新的人行桥。",
+      "photoQuestion": "从哪一岸能看清桥拱？",
+      "observeQuestion": "上桥前该对照观察什么？",
+      "stay": "住马其顿广场旁，早晨可以从南往北过桥；住旧巴扎则能先到北岸拍桥拱，再走去达乌特帕夏浴场。",
+      "advice": "想看拱券，先沿岸走再上桥；桥面上的时间留给河景，以及辨认通往市场的方向。",
+      "secondPhoto": "从南桥头沿桥面朝北岸巴扎进路拍，可看出这座桥怎样把两岸连起来。"
     },
     "sources": [
       {
@@ -22,12 +32,22 @@
     "en": {
       "history": "The bath's original male and female sections occupied about 900 square metres. The National Gallery's first permanent display in 1951 brought together icons, copies of frescoes, models of medieval churches and twentieth-century art. The building's exhibition interiors were redesigned in 1982 and 1999.",
       "observe": "Compare the tall domed rooms with the smaller chambers between them. The change in ceiling height is one of the clearest remaining clues to the arrangement of the bath, even when the walls are occupied by paintings.",
-      "approach": "From the north end of Stone Bridge look for the low group of masonry domes at the southern bazaar approach. Use the National Gallery entrance and finish with a walk deeper into the market to Čifte Hammam, where the gallery stages a separate programme."
+      "approach": "From the north end of Stone Bridge look for the low group of masonry domes at the southern bazaar approach. Use the National Gallery entrance and finish with a walk deeper into the market to Čifte Hammam, where the gallery stages a separate programme.",
+      "photoQuestion": "How can I fit several domes into one image?",
+      "observeQuestion": "How can I trace the old baths while looking at art?",
+      "stay": "Stay at the south end of the bazaar for an early look at the roof from the streets. From Macedonia Square the approach crosses Stone Bridge before reaching the gallery door.",
+      "advice": "Allow one stop in the entrance lane for the roofline before entering the exhibition. Inside, choose two rooms of different heights to compare the bath’s original scale.",
+      "secondPhoto": "From the public approach below the façade, frame the transition between the low entrance and the taller domed rooms. Ask before making photographs inside an exhibition."
     },
     "zh": {
       "history": "浴场原来的男女分区总面积约 900 平方米。国家美术馆 1951 年的首个常设展陈列了圣像、壁画复制品、中世纪教堂模型与 20 世纪艺术品，展馆内部后来于 1982 年和 1999 年重新布置。",
       "observe": "比较高大的圆顶大厅和中间的小室。即使墙面布置了画作，天花高度的变化仍能帮助辨认浴场原来的空间分布。",
-      "approach": "从石桥北端找旧巴扎南入口一带的低矮砖石圆顶，从国家美术馆标示的入口入场。参观后可深入市场，前往另有展览安排的奇夫泰双浴场。"
+      "approach": "从石桥北端找旧巴扎南入口一带的低矮砖石圆顶，从国家美术馆标示的入口入场。参观后可深入市场，前往另有展览安排的奇夫泰双浴场。",
+      "photoQuestion": "在哪个位置能拍到多座圆顶？",
+      "observeQuestion": "参观画展时如何辨认古浴室的格局？",
+      "stay": "如果想早起从街面看屋顶，可住旧巴扎南端。住马其顿广场则先过石桥，再步行到美术馆入口。",
+      "advice": "看展前先在入口巷道停一下看屋顶；入内后挑两间高度不同的房间，对比原浴场的空间尺度。",
+      "secondPhoto": "从立面前的公共通道取低入口与高圆顶的对比；进展室后先问能否摄影。"
     },
     "sources": [
       {
@@ -41,12 +61,22 @@
     "en": {
       "history": "The National Gallery attributes the fifteenth-century bath to Isa Bey. The 1963 earthquake badly damaged it, and in 2000 it was assigned to the gallery for multimedia exhibitions. The two bathing suites had their own entrances and differed slightly in layout.",
       "observe": "Outside, find the two main domes around which the smaller vaulted chambers cluster. Inside, if the exhibition reaches the former dressing areas, look for how light enters high in the dome and compare that with the low connecting rooms.",
-      "approach": "Use Suli An and Murat Pasha Mosque as reference points in the central lanes. Enter only at the gallery sign, and keep the bath and the inn as two stops even though their doors are close."
+      "approach": "Use Suli An and Murat Pasha Mosque as reference points in the central lanes. Enter only at the gallery sign, and keep the bath and the inn as two stops even though their doors are close.",
+      "photoQuestion": "Where can I photograph the hammam beside bazaar shops?",
+      "observeQuestion": "How do the two larger domes relate to the smaller rooms?",
+      "stay": "A base near Suli An keeps the bath and inner-market lanes on one walk. From the south bank allow time to get through the bazaar before an exhibition closes.",
+      "advice": "Find the pair of domes outside first. An exhibition may only use part of the bath, so ask at the desk which connected rooms you can walk through today.",
+      "secondPhoto": "At the end of the lane turn back for a wider view showing how the two principal domes rise above the smaller roofs."
     },
     "zh": {
       "history": "国家美术馆将这座 15 世纪浴场的兴建归于伊萨贝伊。1963 年地震使浴场严重受损，2000 年馆方获准将其用作多媒体展厅。原先两组浴室各有入口，平面布局略有差异。",
       "observe": "先从外面辨认两座主圆顶与周围较小的拱顶。若展览开放原更衣大厅，可观察光线如何从穹顶高处进入，再与低矮的过渡小室比较。",
-      "approach": "在旧巴扎中段用苏利驿站和穆拉特帕夏清真寺定位，找美术馆标牌入场。浴场与驿站入口相近，游览时可分别停留。"
+      "approach": "在旧巴扎中段用苏利驿站和穆拉特帕夏清真寺定位，找美术馆标牌入场。浴场与驿站入口相近，游览时可分别停留。",
+      "photoQuestion": "从哪里可以拍下浴场与巴扎商铺？",
+      "observeQuestion": "两座大圆顶和周围小房间是什么关系？",
+      "stay": "住苏利驿站附近，可以把双浴场和市场内部巷道串起来。住南岸，赶展览闭馆前要预留穿过巴扎的时间。",
+      "advice": "先在室外找到双圆顶。展览可能只用部分浴室，到接待处问当天哪些相连房间可通行。",
+      "secondPhoto": "走到巷道尽头回望，用广角拍两座主穹顶如何突出于周围较低的屋顶。"
     },
     "sources": [
       {
@@ -60,12 +90,22 @@
     "en": {
       "history": "Kapan An is a fifteenth-century caravanserai associated with Isa Bey. Travellers and merchants could find rooms above the court, while the ground floor served the working needs of the caravan. The courtyard brought these uses together within a single enclosure.",
       "observe": "Pause in the passage and look from its shadow toward the open court. If the court is open, compare the upper row of rooms with the ground-floor openings. Their repeated bays give a better sense of the inn than the street façade alone.",
-      "approach": "Approach through the market lanes from Bezisten and look for the arched entrance recessed among the shops. Return to the shared lane to continue to Suli An and compare the two courtyard plans."
+      "approach": "Approach through the market lanes from Bezisten and look for the arched entrance recessed among the shops. Return to the shared lane to continue to Suli An and compare the two courtyard plans.",
+      "photoQuestion": "Where can I take a picture if the courtyard is closed?",
+      "observeQuestion": "What distinguishes the guest rooms from the ground-floor openings?",
+      "stay": "Choose the bazaar around Bezisten for an early walk through the inn lanes. Macedonia Square suits a riverside evening, with a bridge crossing before the morning visit.",
+      "advice": "Start under the entrance arch before deciding whether to linger. From that transition between shop lane and open court you can understand the inn even on a short stop.",
+      "secondPhoto": "At the public side of the doorway, face out towards the lit shop lane for the reverse view of the passage."
     },
     "zh": {
       "history": "卡潘驿站是与伊萨贝伊有关的 15 世纪商旅驿站。商人和旅客可在庭院上层留宿，地面层则承担商队的日常用途。两层的活动由同一座封闭庭院串联。",
       "observe": "在入口通道的阴影处朝开敞庭院看。若庭院开放，可比较楼上的客房排列和底层开口，连续的开间比临街立面更容易读出驿站规模。",
-      "approach": "从贝济斯滕市场沿商铺夹道走，寻找退入铺面的拱门。出来回到两处共用的商业街巷，可继续去苏利驿站比较庭院平面。"
+      "approach": "从贝济斯滕市场沿商铺夹道走，寻找退入铺面的拱门。出来回到两处共用的商业街巷，可继续去苏利驿站比较庭院平面。",
+      "photoQuestion": "庭院不开放时在哪里取景？",
+      "observeQuestion": "从哪里能分辨楼上客房和底层开间？",
+      "stay": "住贝济斯坦一带适合清晨走访驿站小巷；住马其顿广场方便夜游河岸，次日上午要先过桥。",
+      "advice": "先站在入口拱下，再决定是否久留；从商铺小巷走向开敞院落的过渡处，即使只停一会也能看明白驿站格局。",
+      "secondPhoto": "从入口公共一侧朝外拍明亮商铺小巷，可得到与面向庭院相反的通道视角。"
     },
     "sources": [
       {
@@ -79,12 +119,22 @@
     "en": {
       "history": "Suli An was built in the fifteenth century. Rooms lined a square court over two floors, with guests upstairs and their animals below. The City Museum's Old Bazaar collection gives one part of the building a public use today, alongside the art faculty.",
       "observe": "From the courtyard, when open, look along the upper galleries and back through the entrance passage. The courtyard is much easier to read from this angle than from the shop-lined lane outside.",
-      "approach": "Turn from Čifte Hammam toward the inn entrance and read the museum and faculty signs separately. If the museum rooms are unavailable, use the entrance and adjacent bath to compare the two different building footprints, then continue to Bezisten."
+      "approach": "Turn from Čifte Hammam toward the inn entrance and read the museum and faculty signs separately. If the museum rooms are unavailable, use the entrance and adjacent bath to compare the two different building footprints, then continue to Bezisten.",
+      "photoQuestion": "Can I photograph the arches without standing in the passage?",
+      "observeQuestion": "Which way should I face from the court to see the entrance sequence?",
+      "stay": "Stay in the inner bazaar to combine the inn with Čifte Hammam on foot. Across the river, Macedonia Square offers a clear starting point for the walk back through the market.",
+      "advice": "A museum stop and a walk into the teaching wing are different visits. Identify the public gallery door before you follow anyone through an arcade.",
+      "secondPhoto": "If the courtyard is open, stand on its edge facing the passage to include both gallery and entrance; leave teaching rooms outside the frame."
     },
     "zh": {
       "history": "苏利驿站建于 15 世纪，房间沿方形庭院分两层排列，楼上住旅客，楼下供牲畜停留。如今市博物馆的旧巴扎馆藏占用部分空间，艺术学院也在此使用部分场地。",
       "observe": "庭院开放时，可顺着上层回廊看向两侧，再回头看入口通道。这个角度比在门外的商业街上更能看清驿站布局。",
-      "approach": "从奇夫泰双浴场转往驿站入口，分别看博物馆与艺术学院的标牌。如果展厅未开放，可从驿站入口和旁边浴场观察两个建筑不同的占地轮廓，再继续去贝济斯滕市场。"
+      "approach": "从奇夫泰双浴场转往驿站入口，分别看博物馆与艺术学院的标牌。如果展厅未开放，可从驿站入口和旁边浴场观察两个建筑不同的占地轮廓，再继续去贝济斯滕市场。",
+      "photoQuestion": "在哪里拍回廊不会堵住通道？",
+      "observeQuestion": "从庭院朝哪里看能理解入口布局？",
+      "stay": "住巴扎内部，可以步行连访驿站和奇夫泰浴场；住河对岸则以马其顿广场为起点，次日经市场返回。",
+      "advice": "先辨认公共展室入口，再沿回廊走。看博物馆并不包含进入艺术学院教学区的许可。",
+      "secondPhoto": "庭院开放时站在边缘朝入口拍，把回廊和通道一起纳入，避开教学室。"
     },
     "sources": [
       {
@@ -98,12 +148,22 @@
     "en": {
       "history": "The Čair heritage plan dates the largest surviving bazaar inn to the sixteenth century and explains its name as Lead Inn. The Archaeological Museum records that it formerly displayed stone monuments here, then moved them when its new riverfront building opened in 2014.",
       "observe": "If the courtyard is accessible, give yourself time to follow the rhythm of the stone arches. The scale of the former caravan accommodation reads especially well across the open court. Save any planned stone-monument viewing for the Archaeological Museum.",
-      "approach": "Use the Museum of Macedonia entrance on Josif Mihajlovikj as your reference. Check courtyard access there before treating the inn as an indoor stop, and use the museum's separate visitor doors for its exhibitions."
+      "approach": "Use the Museum of Macedonia entrance on Josif Mihajlovikj as your reference. Check courtyard access there before treating the inn as an indoor stop, and use the museum's separate visitor doors for its exhibitions.",
+      "photoQuestion": "Which side of the court shows the repeating arches?",
+      "observeQuestion": "What should I prioritise during a short courtyard opening?",
+      "stay": "The upper bazaar is convenient for a visit tied to the museum or an event at the inn. Stay near Stone Bridge if you also want the riverfront, allowing time for the uphill approach.",
+      "advice": "Ask about the inn before paying for or planning your museum visit. If the courtyard is closed, keep the museum appointment and look at the inn’s outer wall on the way out.",
+      "secondPhoto": "From the museum approach, include the inn’s outer masonry in the frame even on days when events close the inner court."
     },
     "zh": {
       "history": "查伊尔遗产管理计划将巴扎现存最大的一座驿站断代在 16 世纪，并把它的名字解释为“铅顶驿站”。考古博物馆记载，石刻曾在此展出，2014 年迁入河畔新馆时搬离。",
       "observe": "若庭院开放，可留些时间观察石拱如何连续排列。隔着开敞庭院看过去，最容易感受昔日商队旅舍的规模。若想专程看石刻，可另安排河畔的考古博物馆。",
-      "approach": "先以约瑟夫·米哈伊洛维奇街的马其顿博物馆入口定位。在那里确认是否可进驿站庭院，博物馆展览则走其独立的访客入口。"
+      "approach": "先以约瑟夫·米哈伊洛维奇街的马其顿博物馆入口定位。在那里确认是否可进驿站庭院，博物馆展览则走其独立的访客入口。",
+      "photoQuestion": "从庭院哪一侧看连续拱廊？",
+      "observeQuestion": "庭院只短时开放，先看哪里？",
+      "stay": "住巴扎上部，方便依博物馆或驿站活动时间前往；石桥附近更方便游河岸，但次日要预留上坡时间。",
+      "advice": "安排博物馆行程前先问驿站是否开放。若庭院关闭，可照常看展，离院时从公共通道看驿站外墙。",
+      "secondPhoto": "从博物馆方向的进路拍驿站外墙，即使活动期间内院封闭，也能记录外部砌体。"
     },
     "sources": [
       {
@@ -117,12 +177,22 @@
     "en": {
       "history": "The heritage plan attributes the fifteenth-century covered market to Gazi Ishak Bey and records its destruction in the 1689 fire. The structure visitors see today reflects the reconstruction around 1899. The national tourism guide identifies cloth trading as its early specialty.",
       "observe": "Look for entrances centered on the sides of the rectangular block. If two passages are open, enter through one and leave through another to see how shops face the internal routes as well as the surrounding market lanes.",
-      "approach": "Use Kapan An or Suli An to orient yourself, then turn into a signed passage off the market lane. Continue toward the bath and inn cluster once back outside rather than relying on a particular through-passage being open."
+      "approach": "Use Kapan An or Suli An to orient yourself, then turn into a signed passage off the market lane. Continue toward the bath and inn cluster once back outside rather than relying on a particular through-passage being open.",
+      "photoQuestion": "Where can I fit the covered passage into a street photograph?",
+      "observeQuestion": "How can I read the market layout without entering a shop?",
+      "stay": "Stay in the market quarter for a relaxed morning walk between Bezisten and Kapan An. A south-bank base adds the walk across Stone Bridge before reaching the covered lanes.",
+      "advice": "Trace the change from a narrow open lane to covered trading space. Pause to one side before studying the passage so people carrying goods can get through.",
+      "secondPhoto": "Stand just outside an accessible doorway and photograph the change from light on the street to shade under cover, keeping the aisle clear."
     },
     "zh": {
       "history": "遗产管理计划将这座 15 世纪有顶市场的建造归于加齐·伊沙克贝伊，并记载它在 1689 年火灾中被毁。今日所见布局反映了约 1899 年的重建。国家旅游指南指出，早期这里专营布匹。",
       "observe": "留意矩形街块各边居中的入口。若有两条通道开放，可从一边进去、另一边出来，观察店面如何同时面向内部通道与外围街巷。",
-      "approach": "以卡潘驿站或苏利驿站定位，从市场街巷转入有标识的通道。出来后可继续去浴场和驿站一带，行程无需依赖某一条穿行通道开放。"
+      "approach": "以卡潘驿站或苏利驿站定位，从市场街巷转入有标识的通道。出来后可继续去浴场和驿站一带，行程无需依赖某一条穿行通道开放。",
+      "photoQuestion": "从哪里能拍下有顶通道与外侧街巷？",
+      "observeQuestion": "不进店也能怎么看懂市场布局？",
+      "stay": "住市场街区，早晨可从容步行看贝济斯坦和卡潘驿站。若住南岸，要先过石桥再进入有顶巷道。",
+      "advice": "留意露天窄巷如何转为有顶的贸易空间。观察通道时先靠边站，为搬运货物的人留出路。",
+      "secondPhoto": "站在可通行的门外，从明亮街面拍向有顶通道的阴影，不挡住过道。"
     },
     "sources": [
       {
@@ -136,12 +206,22 @@
     "en": {
       "history": "The mosque dates to 1492. Its square prayer hall sits beneath a large dome and the entrance porch rests on four columns. The tourism agency dates the founder's hexagonal mausoleum beside the mosque to 1519.",
       "observe": "If the forecourt is open, look at the sequence from porch to dome and then find the much smaller mausoleum beside the building. From outside the gate you can see where the minaret sits against the hillside.",
-      "approach": "From the central market lanes climb toward Samuilova and locate the courtyard gate. Keep clear of worshippers at the threshold. For Kale, return to the public uphill approach after the mosque visit."
+      "approach": "From the central market lanes climb toward Samuilova and locate the courtyard gate. Keep clear of worshippers at the threshold. For Kale, return to the public uphill approach after the mosque visit.",
+      "photoQuestion": "Where can I photograph the dome without entering the prayer hall?",
+      "observeQuestion": "What features belong to the porch and what belongs to the prayer hall?",
+      "stay": "Choose the upper bazaar for a morning at the mosque and fortress approaches. Staying closer to the river suits a flatter evening walk but leaves the ascent for the next day.",
+      "advice": "Approach from below so the dome comes into view before the porch. If a service is underway, keep the visit to permitted exterior positions and return for the interior later.",
+      "secondPhoto": "From the permitted courtyard edge, compare the line of the porch with the taller prayer hall. Avoid including people at prayer."
     },
     "zh": {
       "history": "清真寺建于 1492 年，方形礼拜大厅上方是一座大圆顶，入口门廊由四根柱子支撑。国家旅游机构将寺旁创建者的六边形陵墓定年为 1519 年。",
       "observe": "若前院开放，可从门廊一路抬头看到圆顶，再找寺旁规模小得多的陵墓。从大门外也可以观察宣礼塔与山坡之间的关系。",
-      "approach": "从市场中心的街巷向萨穆伊洛瓦方向上坡，找到庭院入口。经过门口时为礼拜者留出通行空间，参观后回到公共上坡道路即可前往卡莱要塞。"
+      "approach": "从市场中心的街巷向萨穆伊洛瓦方向上坡，找到庭院入口。经过门口时为礼拜者留出通行空间，参观后回到公共上坡道路即可前往卡莱要塞。",
+      "photoQuestion": "不进礼拜厅，哪里可以拍大圆顶？",
+      "observeQuestion": "哪些结构属于门廊，哪些属于礼拜厅？",
+      "stay": "住巴扎上部，次晨方便去清真寺与要塞入口；住河边晚上散步更平缓，次日再安排上坡。",
+      "advice": "从低处接近，可先看到穹顶再看到门廊。遇礼拜时只在允许的室外位置观看，室内另择时段。",
+      "secondPhoto": "从允许停留的庭院边缘拍门廊和较高礼拜厅的对照，避开正在祈祷的人。"
     },
     "sources": [
       {
@@ -155,12 +235,22 @@
     "en": {
       "history": "The national tourism guide places early occupation on the hill in the Neolithic and Bronze Age. It attributes an early phase of the fortifications to the Byzantine period. The promontory above the Vardar explains why the site remained strategically important for centuries.",
       "observe": "From permitted ground, compare the wall line with the roofs of the bazaar below. Trace the river and Stone Bridge in the distance before turning toward the towers, and keep to marked areas around any excavation or closed masonry.",
-      "approach": "From Mustafa Pasha Mosque take the public approach uphill and check the fortress gate first. If it is closed, use the lower approach for the outside view, or continue separately along Samuilova toward the Museum of Contemporary Art."
+      "approach": "From Mustafa Pasha Mosque take the public approach uphill and check the fortress gate first. If it is closed, use the lower approach for the outside view, or continue separately along Samuilova toward the Museum of Contemporary Art.",
+      "photoQuestion": "Where can I frame the walls from outside the gate?",
+      "observeQuestion": "Which features help distinguish the hilltop defences?",
+      "stay": "Stay near the upper bazaar to shorten the approach to the gate. A south-bank base offers a distant view across the river before the climb past Mustafa Pasha Mosque.",
+      "advice": "Check the gate notice before planning a circuit of the walls. For a short visit choose one accessible stretch and use its openings to relate the hill to the river below.",
+      "secondPhoto": "From an open stretch inside the gate, turn back towards the hill approach for the relationship between wall and slope."
     },
     "zh": {
       "history": "国家旅游指南指出，新石器时代和青铜时代已有先民在山上活动，并将早期的一次筑城归于拜占庭时期。高踞瓦尔达尔河上方的地形解释了此处为何几百年来一直有战略意义。",
       "observe": "在允许停留的位置比较城墙走向与下方巴扎屋顶的高度。先顺着瓦尔达尔河寻找石桥，再回头看塔楼。遇到考古区域或封闭墙段时，留在有标识的通行范围内。",
-      "approach": "从穆斯塔法帕夏清真寺沿公共道路上坡，先到要塞入口查看开放范围。若大门关闭，可在下方公共道路观察外墙，或另沿萨穆伊洛瓦街去当代艺术博物馆。"
+      "approach": "从穆斯塔法帕夏清真寺沿公共道路上坡，先到要塞入口查看开放范围。若大门关闭，可在下方公共道路观察外墙，或另沿萨穆伊洛瓦街去当代艺术博物馆。",
+      "photoQuestion": "不进城门从哪里拍城墙？",
+      "observeQuestion": "山顶防御工事该留意哪些细节？",
+      "stay": "住巴扎高处可缩短到城门的步行；住南岸则可先隔河看山，再经穆斯塔法帕夏清真寺上坡。",
+      "advice": "先读城门公告再决定是否沿墙走一圈。时间有限可选一段开放城墙，从上方开口看山丘与河流的位置关系。",
+      "secondPhoto": "城门开放时，从可通行的墙段回望上山路，拍城墙与坡地的关系。"
     },
     "sources": [
       {
@@ -174,12 +264,22 @@
     "en": {
       "history": "The national tourism agency uses Bit Pazar as the northern end of the historic bazaar district. In 2021 the City of Skopje reported the reopening of the renovated market, a reminder that this end of the bazaar continues to function as a place to buy everyday goods.",
       "observe": "Look at the change in scale from the narrow lanes to rows of covered stalls. Take one aisle for produce and a second for household goods, leaving the ends of the rows clear for customers and traders carrying stock.",
-      "approach": "Walk north from the old craft lanes toward Boulevard Krste Misirkov and use a marked market entrance. Return toward the bazaar for the inns, or leave on the uphill side for the Sultan Murad Mosque and clock tower."
+      "approach": "Walk north from the old craft lanes toward Boulevard Krste Misirkov and use a marked market entrance. Return toward the bazaar for the inns, or leave on the uphill side for the Sultan Murad Mosque and clock tower.",
+      "photoQuestion": "How should I photograph a working stall?",
+      "observeQuestion": "How can I compare the traditional lanes with the main market?",
+      "stay": "Staying near the northern bazaar suits an early food-market visit. From Macedonia Square use the crossing and the quieter heritage lanes first, before reaching the busy stalls.",
+      "advice": "Begin with one row of stalls and return along a parallel aisle. The walk is easier to follow than cutting through queues or squeezing behind produce displays.",
+      "secondPhoto": "From the outer edge of the market look down an active aisle; get the trader’s agreement before framing a stall at close range."
     },
     "zh": {
       "history": "国家旅游机构将比特巴扎市场视为历史巴扎街区的北端。斯科普里市政府于 2021 年报道，整修后的市场重新开业。这一区域至今仍服务日常采购。",
       "observe": "留心窄街如何过渡到一排排带顶棚的摊位。可选一条通道看果蔬，另一条通道看日用品，尽量把摊排末端留给进出购物和搬货的人。",
-      "approach": "从旧手工业街巷朝克尔斯泰·米西尔科夫大道方向北行，从有标示的入口进入。想看古驿站就沿旧巴扎方向返回，想看苏丹穆拉德清真寺和钟楼则走上坡一侧。"
+      "approach": "从旧手工业街巷朝克尔斯泰·米西尔科夫大道方向北行，从有标示的入口进入。想看古驿站就沿旧巴扎方向返回，想看苏丹穆拉德清真寺和钟楼则走上坡一侧。",
+      "photoQuestion": "要拍营业摊位，应怎样取景？",
+      "observeQuestion": "在哪里能对照老巷和主市场？",
+      "stay": "住巴扎北侧方便早逛食品市场；若住马其顿广场，可先过河、穿过古迹巷道，再到热闹的摊区。",
+      "advice": "先沿一排摊位走，再从平行通道返回，比穿过排队人群或从货架背后挤过去更容易辨认方向。",
+      "secondPhoto": "从市场外沿沿过道纵向取景；要近拍摊位先问摊主。"
     },
     "sources": [
       {
@@ -198,12 +298,22 @@
     "en": {
       "history": "The church's carved wooden iconostasis was finished in 1824 by a team of Mijak carvers. The carved screen and its painted icons can be read as separate pieces of work, and the courtyard memorial to Goce Delčev adds another layer of history to the site.",
       "observe": "If the church interior is open, look across the two tiers of carving and follow the relief around one of the openings before studying the individual icons. Allow a separate pause in the courtyard at the memorial.",
-      "approach": "Approach from Samuilova beneath Kale and go to the courtyard gate. Check which entry point is open for the church and which for the memorial. The uphill continuation from here leads toward the fortress approach."
+      "approach": "Approach from Samuilova beneath Kale and go to the courtyard gate. Check which entry point is open for the church and which for the memorial. The uphill continuation from here leads toward the fortress approach.",
+      "photoQuestion": "Where can I frame the bell tower from the court?",
+      "observeQuestion": "What should I look for on the carved iconostasis?",
+      "stay": "The lanes below Kale suit a morning courtyard visit followed by the fortress. A riverside base works better for an evening quay walk, with an uphill approach the next morning.",
+      "advice": "Treat the carved screen and the memorial tomb as separate stops within the compound. Ask which is open first and leave time for the change from court to interior.",
+      "secondPhoto": "From the public approach below Kale, frame the church enclosure in its hillside setting. Follow separate restrictions at the iconostasis and tomb."
     },
     "zh": {
       "history": "教堂的木雕圣像屏由米亚克木雕工匠团队于 1824 年完成。雕刻的木屏与屏上的彩绘圣像可分别观察，庭院里的戈采·代尔切夫纪念地则记录了另一段历史。",
       "observe": "若教堂内部开放，先看上下两层的整体雕刻，再选一处开口沿边观察浮雕，然后细看单幅圣像。庭院中的纪念地可另留一段停留时间。",
-      "approach": "从卡莱山脚的萨穆伊洛瓦街走到庭院门口，分别确认教堂与纪念地的入口开放情况。继续沿公共道路上坡可往要塞入口方向走。"
+      "approach": "从卡莱山脚的萨穆伊洛瓦街走到庭院门口，分别确认教堂与纪念地的入口开放情况。继续沿公共道路上坡可往要塞入口方向走。",
+      "photoQuestion": "从庭院哪里能拍钟楼？",
+      "observeQuestion": "看木雕圣像屏时要找什么细节？",
+      "stay": "住卡莱山下方便次晨先看教堂院落再访要塞；住河岸适合晚间散步，次晨须安排上坡。",
+      "advice": "把木雕圣像屏和纪念墓当作院区内两个独立停靠点；先问各自是否开放，也为从庭院进入室内预留时间。",
+      "secondPhoto": "从卡莱山下的公共进路拍教堂院墙与坡地；圣像屏和纪念墓各有拍摄安排，分别遵守。"
     },
     "sources": [
       {
@@ -222,12 +332,22 @@
     "en": {
       "history": "Sultan Murad II founded the mosque in 1436–37. The complex later acquired the sixteenth-century clock tower and includes the mausoleums associated with Bikij Han and Ali Pasha of Dagestan. The grouping brings several centuries of building onto one plateau.",
       "observe": "View the main mosque and time tower together from the permitted approach, then look for the smaller funerary buildings if the courtyard is open. The tower's silhouette is easiest to separate from the minaret from the edge of the approach.",
-      "approach": "Use the uphill exit at Bit Pazar and aim for the courtyard gate. Check worship access there. The clock tower makes a convenient exterior stop on the same plateau before descending toward the market."
+      "approach": "Use the uphill exit at Bit Pazar and aim for the courtyard gate. Check worship access there. The clock tower makes a convenient exterior stop on the same plateau before descending toward the market.",
+      "photoQuestion": "Which exterior angle includes the mosque precinct?",
+      "observeQuestion": "How can the clock tower help me orient myself in the compound?",
+      "stay": "Stay near the north market to reach the approach via Bit Pazar. Choose the inner bazaar for a longer morning walk linking other Ottoman monuments before the climb.",
+      "advice": "Use the clock tower to identify the precinct, then look at the mosque itself from the permitted approach. Keep the entrance route available to worshippers.",
+      "secondPhoto": "From the approved courtyard approach, use the route towards the mosque entrance to show how the clock tower sits in the complex."
     },
     "zh": {
       "history": "苏丹穆拉德二世于 1436 至 1437 年间创建清真寺。建筑群后来增建了 16 世纪钟楼，院内还有与比基伊汗和达吉斯坦的阿里帕夏有关的陵墓。同一处高台上因而可以看到几个世纪的建筑。",
       "observe": "先在允许停留的路段同时看清真寺主体与钟楼。庭院开放时，再留意较低的陵墓。从入口边缘更容易把钟楼和宣礼塔的轮廓分开。",
-      "approach": "从比特巴扎市场的上坡侧离开，朝清真寺庭院门走，在门口确认礼拜期间的访客安排。下坡回市场前，可在同一高台上顺路看钟楼外观。"
+      "approach": "从比特巴扎市场的上坡侧离开，朝清真寺庭院门走，在门口确认礼拜期间的访客安排。下坡回市场前，可在同一高台上顺路看钟楼外观。",
+      "photoQuestion": "哪里能拍到清真寺院区的外部空间？",
+      "observeQuestion": "在院区内怎么借钟塔辨认方向？",
+      "stay": "住北市场附近可以从比特市场接近院区；若住巴扎内部，可用较长的上午先看其他奥斯曼遗迹再上坡。",
+      "advice": "先用钟塔辨认院区，再从允许通行的位置看清真寺本身；门口通道留给礼拜者。",
+      "secondPhoto": "从允许通行的庭院进路朝清真寺入口取景，让钟塔在院区里的位置可辨。"
     },
     "sources": [
       {
@@ -241,12 +361,22 @@
     "en": {
       "history": "The tourism agency describes an early upper section of timber over a polygonal base and records that a 1904 rebuilding replaced that timber section with masonry. Earlier travellers described hearing the strikes across town. The tower's high position makes that civic purpose easy to understand.",
       "observe": "Read the structure from the ground from base to brick upper levels. Take a step back until both the clock tower and the mosque minaret are visible, then look for differences in profile and function.",
-      "approach": "Climb from Bit Pazar toward Sultan Murad Mosque and use the public approach to see the tower. Plan to study the exterior at ground level and use the same hill route back to the market."
+      "approach": "Climb from Bit Pazar toward Sultan Murad Mosque and use the public approach to see the tower. Plan to study the exterior at ground level and use the same hill route back to the market.",
+      "photoQuestion": "Where can I photograph the tower without climbing it?",
+      "observeQuestion": "Which part of the tower should I compare with the base?",
+      "stay": "Stay by Bit Pazar for a shorter approach to the mosque precinct. A riverside room suits a combined bridge and bazaar itinerary but adds a walk up through the market.",
+      "advice": "Look at the base from a little distance before trying to see the upper structure. A short exterior stop can tell more than standing immediately below the tower.",
+      "secondPhoto": "From farther down the approach, frame the upper clock section against the sky, then compare it with your closer view of the base."
     },
     "zh": {
       "history": "国家旅游机构记载，早期钟楼在多边形基座上设木质上段，1904 年改建时以砖砌结构取代上部木构。古时旅行者曾记述全城都能听见报时声，楼址高踞市场上方，也让人容易理解这个选址。",
       "observe": "从地面沿基座向上观察砖砌的上层。退到能让钟楼和清真寺宣礼塔同时入眼的位置，比较两者的轮廓和用途。",
-      "approach": "从比特巴扎市场向苏丹穆拉德清真寺爬坡，经公共通道看钟楼。安排地面外观游览即可，结束后可循原坡道返回市场。"
+      "approach": "从比特巴扎市场向苏丹穆拉德清真寺爬坡，经公共通道看钟楼。安排地面外观游览即可，结束后可循原坡道返回市场。",
+      "photoQuestion": "不上塔在哪里拍钟塔？",
+      "observeQuestion": "钟塔哪部分适合和底座比较？",
+      "stay": "住比特市场旁去清真寺院区路短；若想兼游石桥和巴扎，可住河岸，另计穿过市场上坡的时间。",
+      "advice": "先从稍远位置看底座，再看上部结构；紧贴塔脚反而不容易看懂整座钟塔。",
+      "secondPhoto": "在进路较远处用天空衬出塔顶钟楼，再和底座近景对照。"
     },
     "sources": [
       {
@@ -260,12 +390,22 @@
     "en": {
       "history": "The mosque dates to 1438–39. The name Aladža refers to the coloured ceramic decoration associated with the building. Its precinct includes a hexagonal mausoleum known for glazed motifs that form six-pointed stars.",
       "observe": "From the street, take in the shape of the enclosed precinct first. If visitors are admitted to the courtyard, look for the mausoleum from the path and study the small ceramic details without approaching graves or interrupting worship.",
-      "approach": "Begin from the north market and search for Ishak Bey or Aladža at the precinct gate. Sultan Murad Mosque and the clock tower are higher up and make a separate stop after you return toward Bit Pazar."
+      "approach": "Begin from the north market and search for Ishak Bey or Aladža at the precinct gate. Sultan Murad Mosque and the clock tower are higher up and make a separate stop after you return toward Bit Pazar.",
+      "photoQuestion": "What can I photograph from the public approach to Aladža?",
+      "observeQuestion": "Which parts of the complex are worth comparing from the court?",
+      "stay": "Stay in the northern bazaar if combining the mosque with Bit Pazar. A base by Stone Bridge is closer to riverfront museums but farther from the mosque approach.",
+      "advice": "Use the local Aladža name when checking the approach, then stop outside to identify the mosque before asking about access to the religious spaces.",
+      "secondPhoto": "From the permitted side of the precinct, turn towards the building’s profile so the roof and surrounding open space are both visible."
     },
     "zh": {
       "history": "清真寺建于 1438 至 1439 年间。阿拉贾这一名称与建筑的彩色陶饰有关。院内有一座六边形陵墓，以拼出六角星图案的釉面装饰闻名。",
       "observe": "先从街上辨认围合院落的轮廓。若庭院接待游客，可站在通道上寻找陵墓，留意小块陶饰，并给墓地和礼拜者留出空间。",
-      "approach": "从市场北部出发，在建筑群入口查找 Ishak Bey 或 Aladža 标识。苏丹穆拉德清真寺与钟楼位于较高的地方，回到比特巴扎市场方向后可另外安排上坡参观。"
+      "approach": "从市场北部出发，在建筑群入口查找 Ishak Bey 或 Aladža 标识。苏丹穆拉德清真寺与钟楼位于较高的地方，回到比特巴扎市场方向后可另外安排上坡参观。",
+      "photoQuestion": "在阿拉贾清真寺的公共进路能拍什么？",
+      "observeQuestion": "从院外或院内可以对照哪些建筑部分？",
+      "stay": "若计划一起逛清真寺和比特市场，可住巴扎北侧。石桥附近适合兼看河畔博物馆，但到清真寺的步行较长。",
+      "advice": "问路时可使用当地名 Aladža，到达后先在外面辨认建筑，再向现场询问礼拜空间的通行安排。",
+      "secondPhoto": "从院区允许停留的一侧朝建筑轮廓拍，让屋顶与四周开敞空间同框。"
     },
     "sources": [
       {
@@ -279,12 +419,22 @@
     "en": {
       "history": "The museum's ethnology department traces the collecting of material to the 1920s and describes holdings from the tenth to the twentieth century. The collection includes regional dress and woven textiles alongside jewellery, domestic tools and musical instruments.",
       "observe": "If the ethnology rooms are open, pick a display of clothing and compare the label's place of origin with the materials and embroidery. Then look for a household or workshop object to connect the finished textile with the work behind it.",
-      "approach": "Use the entrance on Josif Mihajlovikj and ask which collections are showing. The adjacent Kuršumli An courtyard has a separate access decision. Keep the ethnology visit on this museum's route and use the riverfront building for the Archaeological Museum."
+      "approach": "Use the entrance on Josif Mihajlovikj and ask which collections are showing. The adjacent Kuršumli An courtyard has a separate access decision. Keep the ethnology visit on this museum's route and use the riverfront building for the Archaeological Museum.",
+      "photoQuestion": "Where can I frame the museum approach in the northern bazaar?",
+      "observeQuestion": "What can I learn from the label on a garment?",
+      "stay": "Stay in the northern bazaar to visit the museum and then ask about Kuršumli An. A south-bank base suits other museums by the river; this collection requires a separate walk uphill.",
+      "advice": "For a short ethnography visit, follow one garment from its label to a related household or workshop object. The collection rewards that slower comparison more than a sweep through every room.",
+      "secondPhoto": "From the approach to Kuršumli An look back towards the museum entrance to record which door serves the collection."
     },
     "zh": {
       "history": "馆方民族学部将早期征集追溯到 20 世纪 20 年代，所藏物件年代从 10 世纪跨到 20 世纪。收藏包括各地服装、织物、首饰、家用工具和乐器。",
       "observe": "若民族学展厅开放，可选一组服饰，结合标签上的产地观察布料和刺绣，再找一件家用器物或作坊工具，理解成品背后的日常劳动。",
-      "approach": "从约瑟夫·米哈伊洛维奇街入口入馆，询问当期开放的馆藏。相邻的库尔舒姆利驿站庭院需要另查通行安排。民族学展览安排在本馆，考古博物馆则位于河畔。"
+      "approach": "从约瑟夫·米哈伊洛维奇街入口入馆，询问当期开放的馆藏。相邻的库尔舒姆利驿站庭院需要另查通行安排。民族学展览安排在本馆，考古博物馆则位于河畔。",
+      "photoQuestion": "在北巴扎哪里拍博物馆入口？",
+      "observeQuestion": "服装藏品的说明牌值得看什么？",
+      "stay": "住北巴扎，参观博物馆后可接着问库尔舒姆利驿站是否开放。南岸住宿方便游沿河场馆，到这座博物馆还需向上步行。",
+      "advice": "短时参观民族志展时，可从一件衣服的说明牌看到相应的家用或作坊器物；在这两件物品间作对照，比匆忙走遍展室更能看出门道。",
+      "secondPhoto": "从库尔舒姆利驿站方向的进路回拍博物馆入口，能分辨展馆使用的门。"
     },
     "sources": [
       {
@@ -298,12 +448,22 @@
     "en": {
       "history": "The museum traces its origins to an archaeological collection formed in 1920 and a museum established in 1924 at Kuršumli An. The present exhibition groups finds by period and discipline, including prehistoric archaeology and ancient coins.",
       "observe": "Choose either the prehistoric or the coin gallery as a starting point. On pottery labels look for site and date, then compare the findspots with the mint locations shown on coin labels where available.",
-      "approach": "Walk along the north quay from Stone Bridge to the colonnaded museum at the Bridge of Civilizations. Find the entry sign at the building and ask about the current gallery route. Continue along the quay to the Art Bridge after the collection."
+      "approach": "Walk along the north quay from Stone Bridge to the colonnaded museum at the Bridge of Civilizations. Find the entry sign at the building and ask about the current gallery route. Continue along the quay to the Art Bridge after the collection.",
+      "photoQuestion": "Which bank gives a full view of the colonnade?",
+      "observeQuestion": "What makes pottery and coin labels worth comparing?",
+      "stay": "Choose the central riverfront for an early visit at the museum’s own entrance. The old bazaar suits an afternoon of shopping after the galleries, reached along the north bank.",
+      "advice": "Choose a gallery before entering. Pottery labels offer a route through findspots and dates; a coin display lets you compare where objects were minted and where they were found.",
+      "secondPhoto": "From the public approach on the museum side, turn along the colonnade to show the depth of the entrance rather than the whole frontage."
     },
     "zh": {
       "history": "馆方将沿革追溯到 1920 年形成的考古收藏，以及 1924 年在库尔舒姆利驿站设立的博物馆。现今常设展按年代和门类组织发掘物，包括史前考古与古代钱币。",
       "observe": "可从史前展厅或钱币展厅择一入手。看陶器标签上的遗址和年代，再与钱币标签上注明的铸造地点比较。",
-      "approach": "从石桥沿北岸步道走到文明之桥旁的柱廊式博物馆。按馆外标识找到入口，询问当期展厅的参观顺序。看完馆藏后，可继续沿河前往艺术桥。"
+      "approach": "从石桥沿北岸步道走到文明之桥旁的柱廊式博物馆。按馆外标识找到入口，询问当期展厅的参观顺序。看完馆藏后，可继续沿河前往艺术桥。",
+      "photoQuestion": "在哪一岸能拍全柱廊？",
+      "observeQuestion": "陶器与钱币的说明牌如何对照？",
+      "stay": "住中央河滨，早晨方便直接到博物馆入口。若下午还想逛街，可住旧巴扎，参观后沿北岸步行返回。",
+      "advice": "入馆前选一个展区。陶器说明可串联出土地与年代；钱币展则适合比较铸造地和发现地。",
+      "secondPhoto": "到馆侧公共进路，从侧向沿柱廊拍入口的纵深，与全立面远景形成对照。"
     },
     "sources": [
       {
@@ -322,12 +482,22 @@
     "en": {
       "history": "The museum opened on 8 September 2011. Its permanent exhibition traces nineteenth- and twentieth-century events, with sections on the national revolutionary period and the two world wars. Displays combine historical documents and photographs with objects including folk dress and equipment.",
       "observe": "Pick a document or photograph in one gallery and read its date before looking at nearby objects. This helps place the museum's presentation of statehood alongside the narrower story told by individual objects and their labels.",
-      "approach": "On the north bank, use Stone Bridge as the landmark and look for the entrance off 11 March Street. Ask for the starting gallery at the ticket desk. Allow a separate visit to the nearby Holocaust Memorial Center."
+      "approach": "On the north bank, use Stone Bridge as the landmark and look for the entrance off 11 March Street. Ask for the starting gallery at the ticket desk. Allow a separate visit to the nearby Holocaust Memorial Center.",
+      "photoQuestion": "Where can I photograph the frontage without entering the galleries?",
+      "observeQuestion": "How can I follow one event through the exhibits?",
+      "stay": "Stay near the north landing of Stone Bridge to combine the museum and memorial centre. If staying south of the Vardar, reserve time to cross before the last gallery entry.",
+      "advice": "Leave a margin before last entry so you can read the dates and captions. A single episode followed through a document and an object makes a workable short visit.",
+      "secondPhoto": "At the north bridge landing, use the river edge as a leading line towards the museum, keeping the walking route clear."
     },
     "zh": {
       "history": "博物馆于 2011 年 9 月 8 日开馆。常设展梳理 19 至 20 世纪的历史，包括民族革命时期和两次世界大战，展品兼有历史文献、照片、民间服装及器具。",
       "observe": "在一个展厅先选一份文献或一张照片，读过日期后再看周围实物。这样既可理解展览如何呈现国家建立的历程，也能读清单件藏品的具体背景。",
-      "approach": "到北岸后以石桥定位，找通向 3 月 11 日街的入口。向售票处询问从哪个展厅开始参观。附近的犹太人大屠杀纪念中心可另留一段时间。"
+      "approach": "到北岸后以石桥定位，找通向 3 月 11 日街的入口。向售票处询问从哪个展厅开始参观。附近的犹太人大屠杀纪念中心可另留一段时间。",
+      "photoQuestion": "不进展厅，在哪里拍临河立面？",
+      "observeQuestion": "怎样借几件展品梳理一个事件？",
+      "stay": "住石桥北桥头，方便连访博物馆与纪念中心；住瓦尔达尔河南岸时，预留在最后入场前过桥的时间。",
+      "advice": "最后入场前留出余量，才能读说明和年代。短时参观可选一段事件，把相关文书与实物对照起来。",
+      "secondPhoto": "从北桥头以河岸线引向博物馆取景，站位避开主要通道。"
     },
     "sources": [
       {
@@ -341,12 +511,22 @@
     "en": {
       "history": "The Holocaust Memorial Center opened in 2011. The International Holocaust Remembrance Alliance records that in March 1943, 7,144 Macedonian Jews were deported to the Treblinka killing center. The memorial in Skopje places the loss in the context of communities that had lived in the region before the war.",
       "observe": "Begin with material about life before the deportations. Follow any named communities and individuals into the wartime sections and give yourself time to read the evidence and personal stories in sequence.",
-      "approach": "From the north landing of Stone Bridge look for the memorial in the former Jewish quarter near the riverfront museums. Confirm the museum name at its own entrance and leave a quiet interval before continuing to the nearby market lanes."
+      "approach": "From the north landing of Stone Bridge look for the memorial in the former Jewish quarter near the riverfront museums. Confirm the museum name at its own entrance and leave a quiet interval before continuing to the nearby market lanes.",
+      "photoQuestion": "How can I take a respectful exterior photograph?",
+      "observeQuestion": "Where should I begin when following an individual story?",
+      "stay": "A north-bank base lets you return on foot after an unhurried memorial visit. Macedonia Square works across the bridge if the rest of the day is on the pedestrian south bank.",
+      "advice": "Allow quiet time to read personal names, rather than planning only a photograph between nearby attractions. Begin with the community’s life before the wartime account.",
+      "secondPhoto": "At the exterior approach, choose details of the entrance signage to record the institution’s name; seek permission before photographing exhibits."
     },
     "zh": {
       "history": "犹太人大屠杀纪念中心于 2011 年开放。国际大屠杀纪念联盟记载，1943 年 3 月，7,144 名马其顿犹太人被驱逐至特雷布林卡灭绝营。斯科普里的这座纪念馆把这段历史放回各地战前犹太社区的背景中讲述。",
       "observe": "先看驱逐发生前的社区生活资料，再循展陈中出现的地名和人名进入战时部分，留时间按顺序读史料与个人经历。",
-      "approach": "从石桥北端往河畔博物馆附近的旧犹太街区走，在纪念中心的独立入口核对馆名。参观后可留一段安静的休息时间，再走回市场街巷。"
+      "approach": "从石桥北端往河畔博物馆附近的旧犹太街区走，在纪念中心的独立入口核对馆名。参观后可留一段安静的休息时间，再走回市场街巷。",
+      "photoQuestion": "怎样在室外取景并尊重参观者？",
+      "observeQuestion": "如果想追踪一位当事人的经历，应从哪部分开始？",
+      "stay": "住北岸，参观完纪念中心可以步行返回，无须赶路；若后半天打算走南岸步行街，可住桥对面的马其顿广场。",
+      "advice": "安排一段可以安静阅读姓名和事迹的时间。先了解战前社区的生活，再读战时叙事，别把这里仅当作河岸行程中的拍照点。",
+      "secondPhoto": "在入口外拍标识细节记录场馆名称；展品摄影先征得允许。"
     },
     "sources": [
       {
@@ -365,12 +545,22 @@
     "en": {
       "history": "The memorial opened on 30 January 2009 on the site of the former Sacred Heart church, lost in the 1963 earthquake. The exhibit evokes an early-twentieth-century city home and uses photographs and domestic objects to introduce the Skopje of Mother Teresa's childhood.",
       "observe": "Start with the city photographs, then look for the copy of the baptismal record and the Missionaries of Charity habit. The chapel visit adds a different experience after the biographical exhibits if it is open.",
-      "approach": "From Macedonia Square take the pedestrian Macedonia Street away from the river. Use the memorial's gallery entrance, then confirm chapel access inside. Keep going south on the pedestrian axis for the old railway station museum."
+      "approach": "From Macedonia Square take the pedestrian Macedonia Street away from the river. Use the memorial's gallery entrance, then confirm chapel access inside. Keep going south on the pedestrian axis for the old railway station museum.",
+      "photoQuestion": "Which street view includes the upper chapel?",
+      "observeQuestion": "Which documents connect Mother Teresa with Skopje?",
+      "stay": "Stay around Macedonia Street for the memorial house and the old station on one pedestrian route. A bazaar base adds a crossing of Stone Bridge and the walk south through the square.",
+      "advice": "Begin downstairs with biographical material and leave the chapel until after the exhibition if access permits. Check for a service before taking a photograph upstairs.",
+      "secondPhoto": "From farther down Macedonia Street, include the pedestrian approach to show how the house sits within the city rather than in isolation."
     },
     "zh": {
       "history": "纪念馆于 2009 年 1 月 30 日开放，选址是 1963 年地震中毁坏的圣心教堂旧址。展厅以 20 世纪初的城市住宅为背景，用照片和日常用品介绍特蕾莎修女童年时代的斯科普里。",
       "observe": "先看城市旧照，再找受洗证明的复制件与仁爱传教修女会的会服。看过生平展后，若上层小教堂开放，可另留时间参观。",
-      "approach": "从马其顿广场沿马其顿街步行离开河岸，从纪念馆展厅入口入内，再询问小教堂的开放安排。沿步行轴继续向南可到旧火车站内的市博物馆。"
+      "approach": "从马其顿广场沿马其顿街步行离开河岸，从纪念馆展厅入口入内，再询问小教堂的开放安排。沿步行轴继续向南可到旧火车站内的市博物馆。",
+      "photoQuestion": "从哪条街拍得到上层小教堂？",
+      "observeQuestion": "哪些资料把特蕾莎修女的经历与斯科普里联系起来？",
+      "stay": "住马其顿街，纪念馆和旧火车站在同一条步行线上；住旧巴扎则要先过石桥，再经广场往南走。",
+      "advice": "先看传记展品，展后再视开放情况前往小教堂；到上层拍摄前先确认有无礼拜。",
+      "secondPhoto": "沿马其顿街退远，让步行街也进入画面，交代纪念馆置身市区的环境。"
     },
     "sources": [
       {
@@ -384,12 +574,22 @@
     "en": {
       "history": "BIRN's record of the Skopje 2014 redevelopment identifies the central monument as Equestrian Warrior, representing Alexander the Great. The square brings that modern redevelopment directly alongside Stone Bridge and the older north-bank bazaar approach.",
       "observe": "View the monument from the edge of the square, then move toward the river to see how the opening to Stone Bridge lines up with streets across the Vardar. On the bridge approach turn back for the wider view of the square.",
-      "approach": "Arrive from the pedestrian Macedonia Street. For a south-bank loop, go toward the Mother Teresa Memorial House before returning to the fountain. For the bazaar, cross at the square's riverside edge."
+      "approach": "Arrive from the pedestrian Macedonia Street. For a south-bank loop, go toward the Mother Teresa Memorial House before returning to the fountain. For the bazaar, cross at the square's riverside edge.",
+      "photoQuestion": "Where can I frame the square and equestrian monument together?",
+      "observeQuestion": "How does the layout connect the square to Stone Bridge?",
+      "stay": "Choose the square’s south-bank pedestrian area for the monument before the day’s walk. The old bazaar offers the reverse view: arrive over Stone Bridge with the square ahead.",
+      "advice": "Walk the edge once before approaching the central statue. The second view, from the opening to Stone Bridge, makes the spread of the square easier to understand.",
+      "secondPhoto": "At the Stone Bridge approach face back across the paving towards the monument, giving the square a second sense of scale."
     },
     "zh": {
       "history": "巴尔干调查报道网络的“斯科普里 2014”项目档案显示，广场中央的“骑马战士”塑像表现的是亚历山大大帝。广场把这次现代城市改造与石桥及北岸旧巴扎的传统入口连接起来。",
       "observe": "先站在广场边缘看纪念像，再往河边走，观察石桥入口如何与瓦尔达尔河对岸的街巷相接。走到桥头后回身，可以看见更完整的广场布局。",
-      "approach": "从马其顿街步行进入广场。想环游南岸，可先去特蕾莎修女纪念馆再回中央喷泉。要去旧巴扎，就从广场临河一侧过石桥。"
+      "approach": "从马其顿街步行进入广场。想环游南岸，可先去特蕾莎修女纪念馆再回中央喷泉。要去旧巴扎，就从广场临河一侧过石桥。",
+      "photoQuestion": "从哪里把广场与骑马雕像拍在一起？",
+      "observeQuestion": "广场的布局怎样与石桥衔接？",
+      "stay": "住南岸广场步行区，可先看雕像再开始行程；住旧巴扎则从石桥走来，正面迎向广场。",
+      "advice": "先沿广场边缘走一段，再接近中央雕像；从通往石桥的开口回看，更容易看清广场的展开方式。",
+      "secondPhoto": "从石桥入口回望铺装广场与雕像，能得到另一种空间尺度。"
     },
     "sources": [
       {
@@ -403,12 +603,22 @@
     "en": {
       "history": "The former railway station entered service in 1940. Much of it was destroyed by the 1963 earthquake, and the surviving building became the city museum in 1970. The OSCE dates the stopped façade clock to 05:17 on 26 July 1963, when the earthquake struck.",
       "observe": "From the forecourt, compare the height of the surviving façade with the clock and the former station openings. In the galleries, look at the source of objects to connect the city's archaeology to the wider Skopje area.",
-      "approach": "Walk south along Macedonia Street until the station façade comes into view near Ss Cyril and Methodius Street. Look for the museum visitor entrance at street level after seeing the clock from across the forecourt."
+      "approach": "Walk south along Macedonia Street until the station façade comes into view near Ss Cyril and Methodius Street. Look for the museum visitor entrance at street level after seeing the clock from across the forecourt.",
+      "photoQuestion": "Which part of the station façade belongs in the same frame as the clock?",
+      "observeQuestion": "What traces of the former station can I read from the forecourt?",
+      "stay": "Stay on or near Macedonia Street to walk between the old station and the memorial house. A bazaar base suits a longer southbound walk across the square, with time to return.",
+      "advice": "Stand far enough back to see the surviving station wall before focusing on the clock. Save time inside for objects that explain the city beyond the earthquake itself.",
+      "secondPhoto": "At the edge of the forecourt frame the surviving station openings obliquely, leaving room around the damaged end of the building."
     },
     "zh": {
       "history": "旧车站在 1940 年启用。1963 年地震毁坏了车站的大部分，幸存建筑于 1970 年改作市博物馆。据欧洲安全与合作组织资料，外墙时钟停在地震发生的 1963 年 7 月 26 日清晨 5 时 17 分。",
       "observe": "从前场观察幸存站房的高度、时钟的位置及旧站入口的开口比例。进入展厅后，可留意藏品出土地，把市区的考古发现放在更大的斯科普里盆地范围内理解。",
-      "approach": "沿马其顿街向南走，到圣西里尔和美多德街一带可见旧车站立面。可先从前场对面看钟，再循街面标识找博物馆访客入口。"
+      "approach": "沿马其顿街向南走，到圣西里尔和美多德街一带可见旧车站立面。可先从前场对面看钟，再循街面标识找博物馆访客入口。",
+      "photoQuestion": "拍旧站钟面时可把哪部分立面一起纳入？",
+      "observeQuestion": "从站前空地还能辨认哪些旧车站痕迹？",
+      "stay": "住马其顿街一带，可步行连访旧站和纪念馆；若住旧巴扎，适合安排过广场向南的长线，并留好回程时间。",
+      "advice": "先退到能看清旧站残存外墙的位置，再看钟面。入馆也留些时间给说明地震以外城市生活的物件。",
+      "secondPhoto": "在站前空地边缘斜拍残存车站门窗，给受损的建筑端部留出画面空间。"
     },
     "sources": [
       {
@@ -427,12 +637,22 @@
     "en": {
       "history": "The museum traces its collection to an international call for artists to donate work after the July 1963 earthquake. Its present building, completed in 1970, is a late-modernist gallery designed for the hillside near the fortress.",
       "observe": "From the outdoor approach, compare the gallery's horizontal volumes with the slope and the fortress masonry. If gallery labels identify early donations, compare one with a later work in the showing to follow how the collection developed.",
-      "approach": "Use the public road on Samuilova to the museum at number 17. Plan Kale and the art museum as separate entrances. Check exhibition access before climbing and return down the road toward the upper bazaar."
+      "approach": "Use the public road on Samuilova to the museum at number 17. Plan Kale and the art museum as separate entrances. Check exhibition access before climbing and return down the road toward the upper bazaar.",
+      "photoQuestion": "Which viewpoint shows the gallery against the hillside?",
+      "observeQuestion": "How do the early donations relate to the later collection?",
+      "stay": "Stay in the upper bazaar for a visit combining the hill and a gallery opening. A riverside base works well for the evening; agree the uphill and return journey before leaving.",
+      "advice": "Put the forecourt and gallery in that order on an uphill visit. Outside you can see the relation to Kale; inside look for a donor or acquisition date on a label.",
+      "secondPhoto": "From the public hillside approach look back across the gallery frontage to the fortress setting; keep paths and doors clear."
     },
     "zh": {
       "history": "馆方将收藏的起点追溯到 1963 年 7 月地震之后，当时艺术家响应国际倡议捐出作品。现馆于 1970 年落成，属于后期现代主义建筑，顺应要塞附近的山坡地形。",
       "observe": "从室外入口比较展馆的横向体量、山坡地形与要塞的砖石墙。若展签标出早期捐赠，可挑一件与当期展览中的较晚作品比较，观察馆藏如何发展。",
-      "approach": "沿萨穆伊洛瓦街公共道路到 17 号。卡莱要塞和美术馆走不同入口。先查展览开放再上山，参观后可沿公路走回旧巴扎上段。"
+      "approach": "沿萨穆伊洛瓦街公共道路到 17 号。卡莱要塞和美术馆走不同入口。先查展览开放再上山，参观后可沿公路走回旧巴扎上段。",
+      "photoQuestion": "从哪里看展馆与山坡的关系？",
+      "observeQuestion": "如何对照早期捐赠作品和后来的收藏？",
+      "stay": "住巴扎上部方便把上山和展览开放时段连在一起；住河岸适合晚间活动，出发前要安排上山与返程。",
+      "advice": "上山后先看前庭再进展馆。室外可辨认展馆和卡莱要塞的位置；室内找一块注明捐赠者或入藏年份的展签。",
+      "secondPhoto": "从山坡公共进路回看展馆立面及要塞所在山地，不堵住路径和门口。"
     },
     "sources": [
       {
@@ -451,12 +671,22 @@
     "en": {
       "history": "The Art Bridge was part of the Skopje 2014 redevelopment. BIRN documents the bridge and the sculptures as separate public projects. The figures turn this Vardar crossing into a short outdoor portrait gallery.",
       "observe": "Read a few plinths on one side and compare them with the other row. Partway across, turn upstream to see how the statue-lined bridge differs from the riverfront museum crossing nearby.",
-      "approach": "Walk downstream from Stone Bridge on the south quay and pass the approach to the museum crossing before taking the bridge with rows of statues. Its north end makes an easy continuation toward the performing-arts buildings."
+      "approach": "Walk downstream from Stone Bridge on the south quay and pass the approach to the museum crossing before taking the bridge with rows of statues. Its north end makes an easy continuation toward the performing-arts buildings.",
+      "photoQuestion": "Where should I stand to photograph the two rows of figures?",
+      "observeQuestion": "How do the plinths help me read the bridge?",
+      "stay": "Stay on the central quay for an early walk along the statues. A bazaar base suits gallery visits after the bridge; follow the north-bank waterfront rather than retracing every crossing.",
+      "advice": "Stop beside one plinth rather than in the middle of the crossing. Read the name, compare the opposite row, then use the next gap for a view upstream.",
+      "secondPhoto": "Partway across, turn upstream and use one figure at the edge of the frame to connect the portrait with the wider riverfront."
     },
     "zh": {
       "history": "艺术桥是“斯科普里 2014”城市改造的一部分。巴尔干调查报道网络分别记录了桥体与雕塑项目。人物雕像让这处瓦尔达尔河过河通道也能当作露天人物展来看。",
       "observe": "先读一侧几个像座的铭牌，再与对面一排比较。走到桥中段朝上游看，能发现这座桥的连续雕像与附近通往河畔博物馆的人行桥有何不同。",
-      "approach": "从石桥沿南岸步道向下游走，经过通往博物馆的过河入口，再选两侧立有成排雕像的桥。过桥至北岸可顺路走向演出场馆群。"
+      "approach": "从石桥沿南岸步道向下游走，经过通往博物馆的过河入口，再选两侧立有成排雕像的桥。过桥至北岸可顺路走向演出场馆群。",
+      "photoQuestion": "站在哪里能拍到双排雕像？",
+      "observeQuestion": "雕像基座如何帮助理解这座桥？",
+      "stay": "住中央河岸，清晨就能去看桥上雕像；住旧巴扎更适合过桥后续访展馆，可沿北岸返回，无须每座桥都折返。",
+      "advice": "在一座基座旁停，不站在桥中央挡路；先读名字，再看对面一排，从下一处空档朝上游望。",
+      "secondPhoto": "走到桥上半途朝上游拍，把一座雕像放在画面边缘，连起人物与河岸环境。"
     },
     "sources": [
       {
@@ -475,12 +705,22 @@
     "en": {
       "history": "The National Theatre's history reaches back to 1945 and to an earlier theatre on the Vardar. The institution describes the present building as a new home for drama with more than one stage. It shares this stretch of riverfront with distinct opera and concert institutions.",
       "observe": "From the quay, take in the river-facing composition and the entrance sequence. If you have a ticket, note the named stage on it before entering so the exterior tour leads to the correct doors.",
-      "approach": "Use the north-bank walkway from Stone Bridge to 11 March Street 3. For an exterior visit keep to the quay. For a performance locate the National Theatre box office so you can return to the same address in the evening."
+      "approach": "Use the north-bank walkway from Stone Bridge to 11 March Street 3. For an exterior visit keep to the quay. For a performance locate the National Theatre box office so you can return to the same address in the evening.",
+      "photoQuestion": "Where can I include the upper façade in a photograph?",
+      "observeQuestion": "What should I confirm before walking to the theatre doors?",
+      "stay": "Stay near the theatre on the north bank for a later performance. If staying on the south bank, plan the walk back over the river after the curtain call.",
+      "advice": "If you are here for a performance, identify the booked stage before circling the façade. A daytime exterior walk and evening admission have different entrances and timing to confirm.",
+      "secondPhoto": "From the opposite river edge frame the building’s full width, then compare that distant view with the closer entrance photograph."
     },
     "zh": {
       "history": "国家剧院的历史可追溯到 1945 年及瓦尔达尔河岸的一座旧剧院。馆方将现馆介绍为设有不止一个舞台的新戏剧场馆。歌剧和音乐会场馆同在这段河岸，却由各自机构运营。",
       "observe": "从河岸观察建筑面向河流的一面和入口的分布。持票观演时，先查票上注明的舞台，再从正确的门厅进场。",
-      "approach": "从石桥沿北岸步道去 3 月 11 日街 3 号。只看外观可停留在滨河步道。若当晚看戏，白天可先认清国家剧院售票处及地址。"
+      "approach": "从石桥沿北岸步道去 3 月 11 日街 3 号。只看外观可停留在滨河步道。若当晚看戏，白天可先认清国家剧院售票处及地址。",
+      "photoQuestion": "在哪里能拍全剧院上层立面？",
+      "observeQuestion": "从河岸走到剧场门口前要确认什么？",
+      "stay": "晚场演出可住北岸剧院附近；若住南岸，散场后还需过河，提前想好返程步行路线。",
+      "advice": "看演出先看票面写的是哪个舞台，再沿立面散步；白天外观游览与晚间演出的入口和时间要分别确认。",
+      "secondPhoto": "从河对岸拍完整楼体宽度，再与近处入口照片对照。"
     },
     "sources": [
       {
@@ -499,12 +739,22 @@
     "en": {
       "history": "The institution dates a formative event in Macedonian opera to a performance of Mascagni's Cavalleria rusticana at the National Theatre on 9 May 1947. Today's resident opera and ballet have their own venue east of the older bazaar approach.",
       "observe": "Use the public forecourt to view the angled planes, projecting walls and sloping edges together. For a performance, use the listing to check the language or surtitles when relevant and find the entrance named on the ticket.",
-      "approach": "Follow the north bank downstream and approach Goce Delchev Boulevard 4. Check the opera and ballet signs at number 4. The Philharmonic at number 2 has its own ticket office and events."
+      "approach": "Follow the north bank downstream and approach Goce Delchev Boulevard 4. Check the opera and ballet signs at number 4. The Philharmonic at number 2 has its own ticket office and events.",
+      "photoQuestion": "From where do the angular walls read most clearly?",
+      "observeQuestion": "How can I identify the entrance for my performance?",
+      "stay": "The north-bank performance district keeps the evening return short. A south-bank base suits daytime sightseeing, but confirm the pedestrian crossing you will use after the performance.",
+      "advice": "Look at the roofline from the forecourt before joining an entrance queue. For a performance confirm the title and starting time on the company's programme.",
+      "secondPhoto": "From one side of the forecourt, photograph the projecting planes in profile rather than standing directly below the roof."
     },
     "zh": {
       "history": "院方把马其顿歌剧发展的一个重要起点定在 1947 年 5 月 9 日，当时国家剧院上演了马斯卡尼的《乡村骑士》。如今常驻的歌剧与芭蕾舞团使用旧巴扎入口东侧的专属场馆。",
       "observe": "可从公共前场观察外墙的折面、突出的墙体和倾斜边线。看演出时可先查场次公告上的演出语言或字幕，再按票面标示找入口。",
-      "approach": "沿北岸往下游走，到戈采·代尔切夫大道 4 号找歌剧与芭蕾舞院的标识。相邻 2 号的爱乐音乐厅有自己的售票处和节目安排。"
+      "approach": "沿北岸往下游走，到戈采·代尔切夫大道 4 号找歌剧与芭蕾舞院的标识。相邻 2 号的爱乐音乐厅有自己的售票处和节目安排。",
+      "photoQuestion": "从哪里最能看清歌剧院的折线墙体？",
+      "observeQuestion": "如何找准自己这场演出的入口？",
+      "stay": "住北岸演艺区可缩短夜间返程；南岸住宿适合日间观光，但要先查散场后走哪座人行桥。",
+      "advice": "排队前先在前广场看屋顶轮廓。观看演出时，按剧团节目单核对剧名和开演时间。",
+      "secondPhoto": "站在前庭一侧斜拍外挑折面，不必走到屋顶正下方。"
     },
     "sources": [
       {
@@ -518,12 +768,22 @@
     "en": {
       "history": "The orchestra dates its founding to 24 November 1944. It moved into its own purpose-built home 73 years later, near the state music and ballet school and the National Opera and Ballet.",
       "observe": "Read the concert listing for the named hall and ensemble. From the approach, compare the newer concert venue with the opera building next door, then identify the box office for any later return.",
-      "approach": "Use the opera building to orient yourself along Goce Delchev Boulevard and continue to the Philharmonic at number 2. If coming from the bazaar in the evening, save the Philharmonic entrance as the destination."
+      "approach": "Use the opera building to orient yourself along Goce Delchev Boulevard and continue to the Philharmonic at number 2. If coming from the bazaar in the evening, save the Philharmonic entrance as the destination.",
+      "photoQuestion": "Which exterior position avoids obstructing the concert queue?",
+      "observeQuestion": "What should I check on the Philharmonic programme?",
+      "stay": "Stay around the north-bank halls for a concert evening. Macedonia Square combines well with daytime museum visits, with a separate riverside walk to the Philharmonic at night.",
+      "advice": "Find the hall on the programme before following other concertgoers. The neighbouring opera venue has its own entrance and ticket arrangements.",
+      "secondPhoto": "From the shared approach between the music buildings, show the Philharmonic’s entrance in relation to the neighbouring opera venue."
     },
     "zh": {
       "history": "据乐团资料，乐团于 1944 年 11 月 24 日成立，73 年后才迁入专门为其修建的音乐厅。新馆紧邻国立音乐与芭蕾学校及国家歌剧与芭蕾舞院。",
       "observe": "先从节目单核对具体演出厅和演奏阵容。抵达后可从街上比较音乐厅与隔壁歌剧院的外观，再认清需要晚些时候返回的售票处。",
-      "approach": "沿戈采·代尔切夫大道用歌剧院定位，继续走到 2 号爱乐音乐厅。若晚上从旧巴扎出发，建议把爱乐音乐厅的入口直接保存为导航终点。"
+      "approach": "沿戈采·代尔切夫大道用歌剧院定位，继续走到 2 号爱乐音乐厅。若晚上从旧巴扎出发，建议把爱乐音乐厅的入口直接保存为导航终点。",
+      "photoQuestion": "从哪里拍音乐厅不会挡住排队者？",
+      "observeQuestion": "爱乐节目单上该核对哪些信息？",
+      "stay": "住北岸场馆一带便于听完音乐会返回；住马其顿广场适合白天逛博物馆，晚上另走河岸前往音乐厅。",
+      "advice": "先按节目单找本场音乐厅，再跟人流走；相邻歌剧院有自己的入口和售票安排。",
+      "secondPhoto": "从两座音乐建筑之间的公共进路拍爱乐厅入口与相邻歌剧院的位置关系。"
     },
     "sources": [
       {
@@ -537,12 +797,22 @@
     "en": {
       "history": "The parks enterprise traces City Park to the Ottoman-era Idadia Park. Reconstruction and expansion began in 1923 and a second section took shape by 1941. The park's layers are visible in the more formal early layout and the looser paths, ponds and canals across the larger grounds.",
       "observe": "Choose a waterside path and then take a tree-lined return route to compare the views. The municipal operator mentions ginkgo and giant sequoia among the park's longstanding trees, so look for any identification signs beside paths.",
-      "approach": "Approach the open park west of the center and use the zoo frontage or riverside as a return landmark. A short loop can stay on park paths, with the zoo entrance as an optional separate stop."
+      "approach": "Approach the open park west of the center and use the zoo frontage or riverside as a return landmark. A short loop can stay on park paths, with the zoo entrance as an optional separate stop.",
+      "photoQuestion": "How can I compose a tree reflection without leaving the path?",
+      "observeQuestion": "Which paths help me compare water and woodland in one walk?",
+      "stay": "Stay towards City Park for an early walk and a separate zoo visit. A central riverside base suits a combined quay and park outing, with a longer walk back.",
+      "advice": "Choose one waterside path for the outward walk and a tree-lined route back. This gives two different views without having to cross the entire park.",
+      "secondPhoto": "From a public footbridge, face along the water and include branches on the bank. Leave space for people crossing behind you."
     },
     "zh": {
       "history": "园林公共企业将城市公园的起源追溯至奥斯曼时期的伊达迪亚公园。公园自 1923 年开始改造扩建，第二区在 1941 年前成形。较规整的早期园地与大园区内更自由的路径、池塘和水渠，保留了不同阶段的布局。",
       "observe": "可沿水边走一段，再从林荫路返回，比较两种景观。园方记录了在园内生长多年的银杏及巨杉，散步时可留意路旁有无树木标识。",
-      "approach": "从市中心向西抵达开放公园，把动物园临街一侧或河岸作为回程参照。短途环线可留在公园步道内，想进动物园时再另走其入口。"
+      "approach": "从市中心向西抵达开放公园，把动物园临街一侧或河岸作为回程参照。短途环线可留在公园步道内，想进动物园时再另走其入口。",
+      "photoQuestion": "不离开小径，怎样拍树木倒影？",
+      "observeQuestion": "哪些小径可以把水岸和林荫景观串在一起？",
+      "stay": "住城市公园一侧适合早晨散步再单独进动物园；住中央河岸能把河滨与公园串在一起，但回程步行较长。",
+      "advice": "去程选水边小径，回程走树荫路；不用穿遍整个公园，也能比较两种景观。",
+      "secondPhoto": "从公共小桥顺水面拍，纳入岸边树枝，给身后过桥者留出空间。"
     },
     "sources": [
       {
@@ -556,12 +826,22 @@
     "en": {
       "history": "The City of Skopje dates the founding of the zoo to 1926 by a three-member commission led by Dr. Stanko Karaman. Its setting in City Park makes the park paths a natural extension before or after the ticketed visit.",
       "observe": "Use the gate map to pick a cluster of enclosures first. Read the species boards with children and leave time for animals that are resting or out of sight. Check the zoo's posted visitor rules if planning any food or animal encounters.",
-      "approach": "Approach through City Park and identify the zoo gate before exploring more park paths. Check entry and closing times at the zoo, then finish back in the public park or along the Vardar."
+      "approach": "Approach through City Park and identify the zoo gate before exploring more park paths. Check entry and closing times at the zoo, then finish back in the public park or along the Vardar.",
+      "photoQuestion": "Where should I stand when photographing animals?",
+      "observeQuestion": "How can I choose a manageable route with children?",
+      "stay": "Stay near City Park if you want to reach the zoo entrance early. From a central hotel allow a separate transfer or walk to the park, especially when travelling with children.",
+      "advice": "With children, choose one compact group of enclosures from the entrance map. Budget extra time for looking at signs while an animal is resting or hidden.",
+      "secondPhoto": "At the entrance, photograph the site name or map for a record of your route before entering the enclosure paths."
     },
     "zh": {
       "history": "据斯科普里市政府资料，动物园由斯坦科·卡拉曼博士领导的三人委员会于 1926 年创立。园区在城市公园内，购票参观前后都可顺路走公园步道。",
       "observe": "在入口地图上先选一组相邻展区。可和孩子一起读物种说明牌，对休息或暂时看不到的动物多留一点时间。涉及食物或动物互动时，先查园内公示的参观规定。",
-      "approach": "从城市公园走到动物园大门，先确认入口再游览其他公园步道。核对入场与闭园时间，结束后可回到公共公园或沿瓦尔达尔河走。"
+      "approach": "从城市公园走到动物园大门，先确认入口再游览其他公园步道。核对入场与闭园时间，结束后可回到公共公园或沿瓦尔达尔河走。",
+      "photoQuestion": "拍动物时该站在哪一侧？",
+      "observeQuestion": "带儿童怎样利用园图选路线？",
+      "stay": "想早进动物园可住城市公园附近；若住中心酒店，要预留至公园的接驳或步行时间，带孩子时尤其如此。",
+      "advice": "带孩子可在入口园图上先选相邻的一组围区；动物休息或藏起来时，预留一点读标牌和等待的时间。",
+      "secondPhoto": "进入围区步道前，在园门拍园名或导览图，为当天路线留个记录。"
     },
     "sources": [
       {
@@ -575,12 +855,22 @@
     "en": {
       "history": "The parks enterprise says organized reforestation started in 1946. The forested belt above Skopje is therefore also a landscape of postwar planting and maintenance. A walk from Middle Vodno can focus on those slopes without adding the exposed summit.",
       "observe": "At a signed trailhead, look at how shade and gradient change between wooded bends and the more open edges. For a short forest outing use a marked junction as the turnaround point and leave the remaining time for the return.",
-      "approach": "Set your destination to Sredno Vodno, or Middle Vodno, to reach the trail area. Check the return connection in advance and follow park signs for the forest route. The cable-car station is a separate choice for the Millennium Cross."
+      "approach": "Set your destination to Sredno Vodno, or Middle Vodno, to reach the trail area. Check the return connection in advance and follow park signs for the forest route. The cable-car station is a separate choice for the Millennium Cross.",
+      "photoQuestion": "Where can I photograph the slope without leaving the marked trail?",
+      "observeQuestion": "How can a short walk show the change in terrain?",
+      "stay": "A city base is practical if you arrange transport to and from Middle Vodno. A hillside stay puts you nearer some trails; confirm its actual access road and return transport before booking.",
+      "advice": "A forest walk can end below the summit. Use a signed junction as a turnaround point and keep enough daylight for the return to Middle Vodno.",
+      "secondPhoto": "At a marked trail bend, aim back along the tree-lined approach so the path’s gradient and shade remain visible."
     },
     "zh": {
       "history": "园林公共企业记载，有组织的造林始于 1946 年。覆盖斯科普里上方山坡的树林也记录了战后的栽植与养护。从沃德诺半山出发，可只走林坡，把开阔的峰顶单独安排。",
       "observe": "从有标识的登山口起步，观察林间弯道转向开阔林缘时光线和坡度如何变化。若只作短途森林游，可把有路标的岔路口设为折返点，给回程留足时间。",
-      "approach": "将目的地设为 Sredno Vodno，也就是沃德诺半山，到达步道起点附近。提前确认回程交通，再按公园指示走森林路线。想去千禧十字架时，可另选缆车站出发。"
+      "approach": "将目的地设为 Sredno Vodno，也就是沃德诺半山，到达步道起点附近。提前确认回程交通，再按公园指示走森林路线。想去千禧十字架时，可另选缆车站出发。",
+      "photoQuestion": "不离开标记路线，哪里能拍林坡？",
+      "observeQuestion": "走短线怎样看出地形变化？",
+      "stay": "住城区时，先安排往返中沃德诺的接驳。山坡住宿可能靠近部分步道，预订前要确认实际进路和返程交通。",
+      "advice": "游森林不一定非到峰顶。以标示清楚的路口作折返点，并给返回中沃德诺预留日照时间。",
+      "secondPhoto": "在有标记的转弯处沿来路回拍，把步道坡度和林荫一起留下。"
     },
     "sources": [
       {
@@ -594,12 +884,22 @@
     "en": {
       "history": "JSP Skopje records that the cable car linking Middle Vodno to the summit opened in June 2011. It covers about 1.6 kilometres between the two stations. Together with the forest paths, it gives visitors a choice of how to approach Krstovar.",
       "observe": "From the public summit area, compare the open views across the Skopje basin with the wooded slopes you passed below. Leave enough time to reach the return station or the signed walking descent before departing the summit area.",
-      "approach": "Navigate first to Middle Vodno. Before going up, check the JSP service notice and the last descent. If walking, use marked paths and make your return decision before leaving the trailhead."
+      "approach": "Navigate first to Middle Vodno. Before going up, check the JSP service notice and the last descent. If walking, use marked paths and make your return decision before leaving the trailhead.",
+      "photoQuestion": "Where can I frame the Skopje basin from the summit?",
+      "observeQuestion": "What should I check before leaving the summit viewpoint?",
+      "stay": "Use a city hotel if combining the summit with the bazaar on different days. A hillside base can shorten the approach to Middle Vodno; verify both the morning connection and evening return.",
+      "advice": "Before ascending, decide how you will come back down. The summit view is more enjoyable when you know the operating status of the return cable car or the signed descent.",
+      "secondPhoto": "From an authorised summit path, frame the cross with open sky behind it; the reverse view from the visitor area looks out across the basin."
     },
     "zh": {
       "history": "斯科普里公共交通公司记载，连接沃德诺半山与峰顶的缆车于 2011 年 6 月投入运营，两站之间约 1.6 公里。前往克尔斯托瓦尔峰时，也可根据行程选择森林步道。",
       "observe": "在峰顶公共区域，可对照远处的斯科普里盆地与来路上的林坡。离开峰顶游览区前，给走到回程缆车站或有标识的下山步道留足时间。",
-      "approach": "先导航至沃德诺半山。上山前查看公共交通公司的运行公告以及末班下行缆车。步行登顶时可选有标识的路径，并在离开登山口前确定回程走法。"
+      "approach": "先导航至沃德诺半山。上山前查看公共交通公司的运行公告以及末班下行缆车。步行登顶时可选有标识的路径，并在离开登山口前确定回程走法。",
+      "photoQuestion": "到峰顶后从哪里可拍斯科普里盆地？",
+      "observeQuestion": "离开峰顶观景区前要核对什么？",
+      "stay": "若把峰顶和巴扎分两天游览，可住城区。山坡住宿可能缩短到中沃德诺的行程，但要核实清早接驳与当天返程。",
+      "advice": "上山前先确定下山方式。查好返程缆车状态，或认清标记下山路，再从容欣赏峰顶景色。",
+      "secondPhoto": "从允许通行的峰顶路径以天空衬托十字架；在访客区转身，则可朝盆地取景。"
     },
     "sources": [
       {
@@ -613,12 +913,22 @@
     "en": {
       "history": "The waterside landscape combines the Treska River's gorge with an artificial reservoir. According to the hydropower operator, construction of the concrete dam began in 1935 and the power plant entered service in 1938.",
       "observe": "From the signed visitor path, note the transition from the engineered dam area to the high rock walls beside the reservoir. A foot visit can focus on that contrast. Treat a boat trip toward the caves as an extra outing and confirm its return at the landing.",
-      "approach": "Set the map for the Matka Canyon visitor approach on the Treska, southwest of the city. Confirm return transport from the same approach, then follow signs from the arrival area toward the dam and reservoir path."
+      "approach": "Set the map for the Matka Canyon visitor approach on the Treska, southwest of the city. Confirm return transport from the same approach, then follow signs from the arrival area toward the dam and reservoir path.",
+      "photoQuestion": "Where can I photograph the reservoir without blocking the path?",
+      "observeQuestion": "How does the landscape change beyond the dam area?",
+      "stay": "Stay in Skopje for a day trip with a confirmed return pickup. Staying near the canyon suits a slower morning at the water; check how your accommodation connects to the signed visitor path.",
+      "advice": "Plan the lakeside path and a possible boat trip as separate outings. On a short visit, give the dam-to-rock-wall transition priority before checking departures.",
+      "secondPhoto": "From a safe public position near the dam area, frame the built edge against the canyon walls for a contrast with the reservoir view."
     },
     "zh": {
       "history": "马特卡的水岸景观由特雷斯卡河峡谷和人工水库共同构成。水电站运营商记载，混凝土坝于 1935 年开工，电站在 1938 年投入运行。",
       "observe": "沿有标示的游客步道，留意大坝工程构造如何过渡到库岸高耸的岩壁。步行游览可以围绕这个变化安排。若想乘船去洞穴一带，可另留时间并在码头确认返程安排。",
-      "approach": "将导航设到市区西南、特雷斯卡河边的马特卡峡谷游客入口。先确定从同一入口如何返城，再从抵达处循标识走向水坝与库岸步道。"
+      "approach": "将导航设到市区西南、特雷斯卡河边的马特卡峡谷游客入口。先确定从同一入口如何返城，再从抵达处循标识走向水坝与库岸步道。",
+      "photoQuestion": "拍水库时在哪里停留不会挡住窄路？",
+      "observeQuestion": "过了大坝附近，峡谷景观怎么变化？",
+      "stay": "住斯科普里可安排一日游，须预先确认返程接送；住峡谷附近适合清晨从容看水面，订房前要查住处如何衔接正式步道。",
+      "advice": "湖边小径与可选船游分开安排。短时游览优先看大坝附近向高岩壁的过渡，再去码头问船班。",
+      "secondPhoto": "从大坝附近稳固的公共位置拍人工设施与峡谷岩壁，和水库倒影视角形成对照。"
     },
     "sources": [
       {

@@ -6,11 +6,13 @@ interface HeroProps {
   imageSrc?: string;
   imageAlt?: string;
   mapsLink?: string;
+  place?: {title:string; subtitle:string; hours:string};
 }
 
 export default function Hero({ 
   imageSrc = '/gallery/images (1).jpg', 
   imageAlt = 'Skopje Old Bazaar',
+  place,
   mapsLink = 'https://maps.app.goo.gl/t39pvPGR2S68j9vj6'
 }: HeroProps) {
   const t = useTranslations('hero');
@@ -31,27 +33,27 @@ export default function Hero({
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
         <div className="max-w-3xl">
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
-            {t('title')}
+            {place?.title ?? t('title')}
           </h1>
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
-            {t('subtitle')}
+            {place?.subtitle ?? t('subtitle')}
           </p>
 
           {/* Meta row */}
           <div className="flex flex-wrap items-center gap-4 mb-8 animate-fade-in-up animation-delay-200">
-            <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
+            {!place && <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="#f0b429" stroke="none">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
               </svg>
               <span className="text-white text-sm font-medium">{t('rating')}</span>
               <span className="text-white/60 text-xs">({t('reviewCount')})</span>
-            </div>
+            </div>}
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
                 <circle cx="12" cy="12" r="10"/>
                 <polyline points="12 6 12 12 16 14"/>
               </svg>
-              <span className="text-white text-sm">{t('hours')}</span>
+              <span className="text-white text-sm">{place?.hours ?? t('hours')}</span>
             </div>
             <a
               href={mapsLink}

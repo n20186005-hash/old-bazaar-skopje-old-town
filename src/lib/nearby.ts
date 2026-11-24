@@ -73,7 +73,7 @@ type PlacePhoto = { src: string; source: string | null; en: string; zh: string }
 const placePhotos: Partial<Record<string, PlacePhoto>> = photos;
 
 type Place = typeof catalog[keyof typeof catalog];
-type GuideCopy = { history: string; observe: string; approach: string };
+type GuideCopy = { history: string; observe: string; approach: string; photoQuestion: string; observeQuestion: string; stay: string; advice: string; secondPhoto: string };
 type LocalizedSource = { href: string } & Record<Locale, string>;
 const visitorGuides: Record<string, Record<Locale, GuideCopy> & { sources: LocalizedSource[] }> = guides;
 export const nearbyPlaces: Record<string, Place> = catalog;
