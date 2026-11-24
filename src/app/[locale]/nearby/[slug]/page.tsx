@@ -76,6 +76,10 @@ export default async function NearbyDetail({ params }: Props) {
               <p className="leading-relaxed">{place.management}</p>
             </div>
             <p className="text-lg leading-relaxed text-[var(--text-secondary)]">{place.about}</p>
+            <div className="space-y-3">
+              <h3 className="text-xl font-semibold">{zh ? '历史沿革' : 'History'}</h3>
+              <p className="leading-relaxed text-[var(--text-secondary)]">{place.guide.history}</p>
+            </div>
           </div>
         </section>
         <section className="section-padding bg-[var(--bg-secondary)]">
@@ -92,9 +96,12 @@ export default async function NearbyDetail({ params }: Props) {
             </div>
             <div>
               <h2 className="text-3xl font-semibold mb-4">{zh ? '到达与现场路线' : 'Getting there and what to see'}</h2>
+              <p className="mb-4 leading-relaxed text-[var(--text-secondary)]">{place.guide.approach}</p>
               <ol className="list-decimal pl-5 space-y-2 text-[var(--text-secondary)]">
                 {place.walk.map((step) => <li key={step}>{step.trim()}</li>)}
               </ol>
+              <h3 className="text-xl font-semibold mt-6 mb-3">{zh ? '现场观察重点' : 'What to look for'}</h3>
+              <p className="leading-relaxed text-[var(--text-secondary)]">{place.guide.observe}</p>
             </div>
             <div>
               <h2 className="text-3xl font-semibold mb-4">{zh ? '拍摄位置' : 'Where to take photos'}</h2>
@@ -139,8 +146,9 @@ export default async function NearbyDetail({ params }: Props) {
             <div>
               <h2 className="text-3xl font-semibold mb-4">{zh ? '资料来源' : 'Sources'}</h2>
               <ul className="list-disc pl-5 space-y-2 text-[var(--accent)]">
-                <li><a className="hover:underline" href={place.source.href}>{place.source.label}</a></li>
-                {place.heritageSource && <li><a className="hover:underline" href={place.heritageSource}>{zh ? '查伊尔市镇 · 旧巴扎文化遗产管理计划' : 'Municipality of Čair · Old Bazaar heritage management plan'}</a></li>}
+                {place.references.map(({ href, label }) => (
+                  <li key={href}><a className="hover:underline" href={href}>{label}</a></li>
+                ))}
               </ul>
             </div>
             <div>

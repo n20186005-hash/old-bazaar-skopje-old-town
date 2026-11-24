@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import type { Locale } from '@/i18n/routing';
 import catalog from '@/data/places.json';
 import photos from '@/data/place-photos.json';
+import guides from '@/data/visitor-guides.json';
 
 export const siteOrigin = 'https://www.skopjeoldbazaar.com';
 
@@ -72,18 +73,30 @@ type PlacePhoto = { src: string; source: string | null; en: string; zh: string }
 const placePhotos: Partial<Record<string, PlacePhoto>> = photos;
 
 type Place = typeof catalog[keyof typeof catalog];
+type GuideCopy = { history: string; observe: string; approach: string };
+type LocalizedSource = { href: string } & Record<Locale, string>;
+const visitorGuides: Record<string, Record<Locale, GuideCopy> & { sources: LocalizedSource[] }> = guides;
 export const nearbyPlaces: Record<string, Place> = catalog;
 export const nearbySlugs = Object.keys(catalog);
 
 export function placeDetails(slug: string, locale: Locale) {
   const place = nearbyPlaces[slug];
+  const guide = visitorGuides[slug];
   const source = sources[place.source as keyof typeof sources];
   const kind = locations[place.kind as keyof typeof locations];
   const zh = locale === 'zh';
   const management = operators[slug]?.[zh ? 1 : 0] ?? source[zh ? 4 : 3];
   const query = `${place.localName}, Skopje, North Macedonia`;
+  const references = new Map<string, string>([
+    [source[0], source[zh ? 2 : 1]],
+    ...(['ottoman', 'military'].includes(place.source)
+      ? [[protectedBazaar, zh ? '查伊尔市镇 · 旧巴扎文化遗产管理计划' : 'Municipality of Čair · Old Bazaar heritage management plan'] as const]
+      : []),
+    ...guide.sources.map(({ href, ...labels }) => [href, labels[locale]] as const),
+  ]);
   return {
     ...place[locale],
+    guide: guide[locale],
     localName: place.localName,
     next: place.next,
     management,
@@ -94,7 +107,6 @@ export function placeDetails(slug: string, locale: Locale) {
     duration: zh ? `建议约 ${place.minutes} 分钟` : `Allow about ${place.minutes} minutes`,
     map: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`,
     mapEmbed: `https://maps.google.com/maps?q=${encodeURIComponent(query)}&output=embed`,
-    source: { href: source[0], label: source[zh ? 2 : 1] },
-    heritageSource: ['ottoman', 'military'].includes(place.source) ? protectedBazaar : null,
+    references: Array.from(references, ([href, label]) => ({ href, label })),
   };
 }
